@@ -1,0 +1,6 @@
+[Metadata]
+path = metadata
+problems = problems.json
+submissions = submissions.json
+runs = runs.json
+contestants = accounts.json

@@ -12,7 +12,7 @@ def get_data():
         scoreboardJson = domjudgeScoreboard()
         return jsonify(scoreboardJson), 200
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"server error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5000)
+    app.run(host='localhost', port=8080)

@@ -7,8 +7,11 @@ CORS(app, origins=["http://localhost:5173"])
 
 @app.route('/data', methods=['GET'])
 def get_data():
-    scoreboardJson = domjudgeScoreboard()
-    return jsonify(scoreboardJson)
+    try:
+        scoreboardJson = domjudgeScoreboard()
+        return jsonify(scoreboardJson), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='127.0.0.1', port=5000)

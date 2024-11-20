@@ -3,6 +3,7 @@ from flask_cors import CORS
 from domjudge import domjudgeScoreboard
 
 app = Flask(__name__)
+# Allows the scoreboard to call the defined API
 CORS(app, origins=["http://localhost:5173"])
 
 @app.route('/data', methods=['GET'])

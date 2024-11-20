@@ -36,3 +36,56 @@ http://127.0.0.1:5000/data
 ## API Endpoints
 
 - `GET /data`: Fetches and returns the parsed DOM Judge metadata.
+
+```json
+{
+  "contestMetadata": {
+    "duration": 180,
+    "frozenTimeDuration": 45,
+    "name": "Cuscontest",
+    "type": "ICPC"
+  },
+  "problems": [
+    { "index": "A" },
+    { "index": "B" },
+    { "index": "C" },
+    { "index": "D" },
+    { "index": "E" },
+    { "index": "F" },
+    { "index": "G" },
+    { "index": "H" },
+    { "index": "I" },
+    { "index": "J" }
+  ],
+  "contestants": [
+    { "id": 1, "name": "Team A" },
+    { "id": 2, "name": "Team B" },
+    { "id": 3, "name": "Team C" }
+  ],
+  "verdicts": {
+    "accepted": ["Accepted"],
+    "wrongAnswerWithPenalty": ["Wrong answer"],
+    "wrongAnswerWithoutPenalty": ["Compilation error"]
+  },
+  "submissions": [
+    {
+      "timeSubmitted": 12,
+      "contestantName": "Team A",
+      "problemIndex": "A",
+      "verdict": "Accepted"
+    },
+    {
+      "timeSubmitted": 23,
+      "contestantName": "Team B",
+      "problemIndex": "H",
+      "verdict": "Wrong answer"
+    },
+    {
+      "timeSubmitted": 43,
+      "contestantName": "Team C",
+      "problemIndex": "A",
+      "verdict": "Accepted"
+    }
+  ]
+}
+```

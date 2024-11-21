@@ -12,6 +12,11 @@ submissionsFile = config["Metadata"]["submissions"]
 runsFile = config["Metadata"]["runs"]
 contestantsFile = config["Metadata"]["contestants"]
 
+contestDuration = config["Contest"]["duration"]
+contestFrozenTimeDuration = config["Contest"]["frozenTimeDuration"]
+contestName = config["Contest"]["name"]
+contestMode = config["Contest"]["mode"]
+
 hashVeredict = {
     "AC" : "Accepted",
     "WA" : "Wrong Answer",
@@ -73,7 +78,7 @@ def readJsonFile(filepath):
     return data
 
 def getContestMetadata():
-    contestMetadata = ContestMetadata(300, 60, "Cuscontest XXI", "ICPC")
+    contestMetadata = ContestMetadata(contestDuration, contestFrozenTimeDuration, contestName, contestMode)
     return contestMetadata.__dict__
 
 def getProblems():

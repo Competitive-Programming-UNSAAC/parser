@@ -4,3 +4,9 @@ problems = problems.json
 submissions = submissions.json
 runs = runs.json
 contestants = accounts.json
+
+[Contest]
+duration: 300
+frozenTimeDuration: 60
+name: CUSCONTEST XXII
+mode: ICPC

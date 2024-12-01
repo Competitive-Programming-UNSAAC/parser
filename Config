@@ -1,4 +1,10 @@
+[Judge]
+mode = local
+host = localhost
+id = 2
+
 [Metadata]
+source = local
 path = metadata
 problems = problems.json
 submissions = submissions.json
@@ -7,7 +13,7 @@ contestants = accounts.json
 
 [Contest]
 duration: 300
-start: 06-12-2024 09:00:00
-frozenTimeDuration: 60
+start: 01-12-2024 13:00:00
+frozenTimeDuration: 0
 name: CUSCONTEST XXII
 mode: ICPC

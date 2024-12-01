@@ -1,3 +1,4 @@
+import requests
 import configparser
 from datetime import datetime
 import json
@@ -5,6 +6,10 @@ import os
 
 config = configparser.ConfigParser()
 config.read('Config')
+
+judgeMode = config["Judge"]["mode"]
+judgeHost = config["Judge"]["host"]
+contestId = config["Judge"]["id"]
 
 metadataDir = config["Metadata"]["path"]
 problemsFile = config["Metadata"]["problems"]
@@ -80,13 +85,25 @@ def readJsonFile(filepath):
         data = json.load(stream)
     return data
 
+def getJsonFile(url):
+    data = requests.get(url)
+    return data
+
+def getJsonMetadata(filepath, url):
+    if judgeMode == "local":
+        return readJsonFile(filepath)
+    else:
+        return getJsonFile(url)
+
 def getContestMetadata():
     contestMetadata = ContestMetadata(contestStart, contestDuration, contestFrozenTimeDuration, contestName, contestMode)
     return contestMetadata.__dict__
 
 def getProblems():
     filepath = os.path.join(metadataDir, problemsFile)
-    problemsJson = readJsonFile(filepath)
+    url = f'http://{judgeHost}/api/v4/contests/{contestId}/problems'
+    problemsJson = getJsonMetadata(filepath, url)
+
     problems = []
     problemsById = {}
     for problem in problemsJson:
@@ -99,7 +116,9 @@ def getProblems():
 
 def getContestants():
     filepath = os.path.join(metadataDir, contestantsFile)
-    contestantsJson = readJsonFile(filepath)
+    url = f'http://{judgeHost}/api/v4/contests/{contestId}/teams'
+    contestantsJson = getJsonMetadata(filepath, url)
+
     contestants = []
     teamsById = {}
     for team in contestantsJson:
@@ -132,7 +151,8 @@ def getFinalVeredict(veredicts):
 
 def getRuns():
     filespathRuns = os.path.join(metadataDir, runsFile)
-    runsJson = readJsonFile(filespathRuns)
+    url = f'http://{judgeHost}/api/v4/contests/{contestId}/runs'
+    runsJson = getJsonMetadata(filespathRuns, url)
 
     runsById = {}
 
@@ -147,7 +167,8 @@ def getRuns():
 
 def getSubmissions(teamsById, problemsById):
     filepathSubmissions = os.path.join(metadataDir, submissionsFile)
-    submissionsJson = readJsonFile(filepathSubmissions)
+    url = f'http://{judgeHost}/api/v4/contests/{contestId}/submissions'
+    submissionsJson = getJsonMetadata(filepathSubmissions, url)
 
     runsById = getRuns()
     submissions = []

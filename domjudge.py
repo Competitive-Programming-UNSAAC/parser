@@ -9,7 +9,7 @@ config.read('Config')
 
 judgeMode = config["Judge"]["mode"]
 judgeHost = config["Judge"]["host"]
-contestId = config["Judge"]["id"]
+contestId = int(config["Judge"]["id"])
 
 metadataDir = config["Metadata"]["path"]
 problemsFile = config["Metadata"]["problems"]
@@ -87,7 +87,7 @@ def readJsonFile(filepath):
 
 def getJsonFile(url):
     data = requests.get(url)
-    return data
+    return data.json()
 
 def getJsonMetadata(filepath, url):
     if judgeMode == "local":
@@ -123,7 +123,10 @@ def getContestants():
     teamsById = {}
     for team in contestantsJson:
         id = int(team["id"])
-        name = team["team"]
+        name = team["name"]
+        hidden = team["hidden"]
+        if hidden:
+            continue
         if name is None:
             continue
         teamsById[id] = name

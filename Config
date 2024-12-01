@@ -7,7 +7,7 @@ contestants = accounts.json
 
 [Contest]
 duration: 300
-start: 9
+start: 06-12-2024 09:00:00
 frozenTimeDuration: 60
 name: CUSCONTEST XXII
 mode: ICPC

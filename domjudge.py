@@ -10,6 +10,8 @@ config.read('Config')
 judgeMode = config["Judge"]["mode"]
 judgeHost = config["Judge"]["host"]
 contestId = int(config["Judge"]["id"])
+admin = config["Judge"]["admin"]
+password = config["Judge"]["password"]
 
 metadataDir = config["Metadata"]["path"]
 problemsFile = config["Metadata"]["problems"]
@@ -86,7 +88,7 @@ def readJsonFile(filepath):
     return data
 
 def getJsonFile(url):
-    data = requests.get(url)
+    data = requests.get(url, auth=(admin, password))
     return data.json()
 
 def getJsonMetadata(filepath, url):

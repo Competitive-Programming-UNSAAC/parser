@@ -13,6 +13,7 @@ runsFile = config["Metadata"]["runs"]
 contestantsFile = config["Metadata"]["contestants"]
 
 contestDuration = config["Contest"]["duration"]
+contestStart = config["Contest"]["start"]
 contestFrozenTimeDuration = config["Contest"]["frozenTimeDuration"]
 contestName = config["Contest"]["name"]
 contestMode = config["Contest"]["mode"]
@@ -36,12 +37,14 @@ verdicts = {
 
 class ContestMetadata:
     duration = 0
+    start = 0
     frozenTimeDuration = 0
     name = ""
     type = ""
 
-    def __init__(self, duration, frozenTimeDuration, name, type):
+    def __init__(self, start, duration, frozenTimeDuration, name, type):
         self.duration = duration
+        self.start = start
         self.frozenTimeDuration = frozenTimeDuration
         self.name = name
         self.type = type
@@ -78,7 +81,7 @@ def readJsonFile(filepath):
     return data
 
 def getContestMetadata():
-    contestMetadata = ContestMetadata(contestDuration, contestFrozenTimeDuration, contestName, contestMode)
+    contestMetadata = ContestMetadata(contestStart, contestDuration, contestFrozenTimeDuration, contestName, contestMode)
     return contestMetadata.__dict__
 
 def getProblems():

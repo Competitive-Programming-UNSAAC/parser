@@ -65,10 +65,12 @@ class Problem:
 class Contestant:
     id = 0
     name = ""
+    category = ""
 
-    def __init__(self, id, name):
+    def __init__(self, id, name, category):
         self.id = id
         self.name = name
+        self.category = category
 
 class Submission:
     timeSubmitted = 0
@@ -126,13 +128,14 @@ def getContestants():
     for team in contestantsJson:
         id = int(team["id"])
         name = team["name"]
+        category = team["affiliation"] # affiliation was used to put the team category
         hidden = team["hidden"]
         if hidden:
             continue
         if name is None:
             continue
         teamsById[id] = name
-        contestants.append(Contestant(id, name))
+        contestants.append(Contestant(id, name, category))
 
     return [c.__dict__ for c in contestants], teamsById
 

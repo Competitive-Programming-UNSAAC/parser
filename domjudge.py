@@ -16,8 +16,8 @@ password = config["Judge"]["password"]
 metadataDir = config["Metadata"]["path"]
 problemsFile = config["Metadata"]["problems"]
 submissionsFile = config["Metadata"]["submissions"]
-runsFile = config["Metadata"]["runs"]
 contestantsFile = config["Metadata"]["contestants"]
+judgementsFile = config["Metadata"]["judgements"]
 
 contestDuration = config["Contest"]["duration"]
 contestStart = config["Contest"]["start"]
@@ -156,29 +156,27 @@ def getFinalVeredict(veredicts):
         return hashVeredict[next(iter(veredicts))]
     return hashVeredict["WA"]
 
+def getJudgements():
+    filespathJudgements = os.path.join(metadataDir, judgementsFile)
+    url = f'http://{judgeHost}/api/v4/contests/{contestId}/judgements'
+    judgementsJson = getJsonMetadata(filespathJudgements, url)
 
-def getRuns():
-    filespathRuns = os.path.join(metadataDir, runsFile)
-    url = f'http://{judgeHost}/api/v4/contests/{contestId}/runs'
-    runsJson = getJsonMetadata(filespathRuns, url)
+    judgementsById = {}
 
-    runsById = {}
+    for judgement in judgementsJson:
+        submissionId = judgement["submission_id"]
+        if submissionId not in judgementsById:
+            judgementsById[submissionId] = []
+        judgementsById[submissionId].append(judgement)
 
-    for run in runsJson:
-        judgementId = run["judgement_id"]
-        if judgementId not in runsById:
-            runsById[judgementId] = []
-        runsById[judgementId].append(run)
-
-    return runsById
-
+    return judgementsById
 
 def getSubmissions(teamsById, problemsById):
     filepathSubmissions = os.path.join(metadataDir, submissionsFile)
     url = f'http://{judgeHost}/api/v4/contests/{contestId}/submissions'
     submissionsJson = getJsonMetadata(filepathSubmissions, url)
 
-    runsById = getRuns()
+    judgementsById = getJudgements()
     submissions = []
 
     for submission in submissionsJson:
@@ -187,7 +185,7 @@ def getSubmissions(teamsById, problemsById):
         teamId = int(submission["team_id"])
         submissionId = submission["id"]
 
-        if submissionId not in runsById:
+        if submissionId not in judgementsById:
             continue
 
         time = datetime.strptime(contestTime, "%H:%M:%S.%f")
@@ -199,7 +197,7 @@ def getSubmissions(teamsById, problemsById):
 
         problemIndex = problemsById[problemId]
 
-        veredicts = getVeredicts(runsById[submissionId])
+        veredicts = getVeredicts(judgementsById[submissionId])
         verdict = getFinalVeredict(veredicts)
 
         submissions.append(Submission(timeSubmitted, contestantName, problemIndex, verdict))

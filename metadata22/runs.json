@@ -1,0 +1,3440 @@
+[
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:18:47.029-05:00",
+    "contest_time": "0:03:47.029",
+    "judgement_id": "1",
+    "ordinal": 1,
+    "id": "1",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:18:47.197-05:00",
+    "contest_time": "0:03:47.197",
+    "judgement_id": "1",
+    "ordinal": 2,
+    "id": "2",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:19:36.047-05:00",
+    "contest_time": "0:04:36.047",
+    "judgement_id": "2",
+    "ordinal": 1,
+    "id": "3",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:19:36.221-05:00",
+    "contest_time": "0:04:36.221",
+    "judgement_id": "2",
+    "ordinal": 2,
+    "id": "4",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:19:48.568-05:00",
+    "contest_time": "0:04:48.568",
+    "judgement_id": "3",
+    "ordinal": 1,
+    "id": "5",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:19:48.735-05:00",
+    "contest_time": "0:04:48.735",
+    "judgement_id": "3",
+    "ordinal": 2,
+    "id": "6",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:22:33.349-05:00",
+    "contest_time": "0:07:33.349",
+    "judgement_id": "4",
+    "ordinal": 1,
+    "id": "9",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:22:33.580-05:00",
+    "contest_time": "0:07:33.580",
+    "judgement_id": "4",
+    "ordinal": 2,
+    "id": "10",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:23:52.032-05:00",
+    "contest_time": "0:08:52.032",
+    "judgement_id": "5",
+    "ordinal": 1,
+    "id": "11",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:23:52.239-05:00",
+    "contest_time": "0:08:52.239",
+    "judgement_id": "5",
+    "ordinal": 2,
+    "id": "12",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:26:46.514-05:00",
+    "contest_time": "0:11:46.514",
+    "judgement_id": "6",
+    "ordinal": 1,
+    "id": "13",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:26:46.677-05:00",
+    "contest_time": "0:11:46.677",
+    "judgement_id": "6",
+    "ordinal": 2,
+    "id": "14",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:27:24.068-05:00",
+    "contest_time": "0:12:24.068",
+    "judgement_id": "7",
+    "ordinal": 1,
+    "id": "15",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:27:24.199-05:00",
+    "contest_time": "0:12:24.199",
+    "judgement_id": "7",
+    "ordinal": 2,
+    "id": "16",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:27:38.311-05:00",
+    "contest_time": "0:12:38.311",
+    "judgement_id": "8",
+    "ordinal": 1,
+    "id": "17",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:32:20.175-05:00",
+    "contest_time": "0:17:20.175",
+    "judgement_id": "9",
+    "ordinal": 1,
+    "id": "18",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:32:20.307-05:00",
+    "contest_time": "0:17:20.307",
+    "judgement_id": "9",
+    "ordinal": 2,
+    "id": "19",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:32:22.682-05:00",
+    "contest_time": "0:17:22.682",
+    "judgement_id": "10",
+    "ordinal": 1,
+    "id": "20",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:32:22.812-05:00",
+    "contest_time": "0:17:22.812",
+    "judgement_id": "10",
+    "ordinal": 2,
+    "id": "21",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.043,
+    "time": "2024-12-06T09:33:09.534-05:00",
+    "contest_time": "0:18:09.533",
+    "judgement_id": "11",
+    "ordinal": 1,
+    "id": "22",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.066,
+    "time": "2024-12-06T09:33:09.734-05:00",
+    "contest_time": "0:18:09.734",
+    "judgement_id": "11",
+    "ordinal": 2,
+    "id": "23",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:33:14.265-05:00",
+    "contest_time": "0:18:14.265",
+    "judgement_id": "12",
+    "ordinal": 1,
+    "id": "24",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.002,
+    "time": "2024-12-06T09:33:14.478-05:00",
+    "contest_time": "0:18:14.478",
+    "judgement_id": "12",
+    "ordinal": 2,
+    "id": "25",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:33:35.419-05:00",
+    "contest_time": "0:18:35.419",
+    "judgement_id": "13",
+    "ordinal": 1,
+    "id": "26",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:34:00.309-05:00",
+    "contest_time": "0:19:00.309",
+    "judgement_id": "14",
+    "ordinal": 1,
+    "id": "27",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:34:00.420-05:00",
+    "contest_time": "0:19:00.420",
+    "judgement_id": "14",
+    "ordinal": 2,
+    "id": "28",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T09:34:16.572-05:00",
+    "contest_time": "0:19:16.572",
+    "judgement_id": "15",
+    "ordinal": 1,
+    "id": "29",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.052,
+    "time": "2024-12-06T09:34:16.769-05:00",
+    "contest_time": "0:19:16.769",
+    "judgement_id": "15",
+    "ordinal": 2,
+    "id": "30",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.036,
+    "time": "2024-12-06T09:36:13.165-05:00",
+    "contest_time": "0:21:13.164",
+    "judgement_id": "17",
+    "ordinal": 1,
+    "id": "32",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.05,
+    "time": "2024-12-06T09:36:13.326-05:00",
+    "contest_time": "0:21:13.326",
+    "judgement_id": "17",
+    "ordinal": 2,
+    "id": "33",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:36:58.805-05:00",
+    "contest_time": "0:21:58.805",
+    "judgement_id": "18",
+    "ordinal": 1,
+    "id": "34",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:36:58.908-05:00",
+    "contest_time": "0:21:58.908",
+    "judgement_id": "18",
+    "ordinal": 2,
+    "id": "35",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T09:38:05.602-05:00",
+    "contest_time": "0:23:05.602",
+    "judgement_id": "19",
+    "ordinal": 1,
+    "id": "36",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.065,
+    "time": "2024-12-06T09:38:05.795-05:00",
+    "contest_time": "0:23:05.795",
+    "judgement_id": "19",
+    "ordinal": 2,
+    "id": "37",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.037,
+    "time": "2024-12-06T09:38:23.885-05:00",
+    "contest_time": "0:23:23.885",
+    "judgement_id": "20",
+    "ordinal": 1,
+    "id": "38",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.048,
+    "time": "2024-12-06T09:38:24.093-05:00",
+    "contest_time": "0:23:24.093",
+    "judgement_id": "20",
+    "ordinal": 2,
+    "id": "39",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:38:26.731-05:00",
+    "contest_time": "0:23:26.731",
+    "judgement_id": "21",
+    "ordinal": 1,
+    "id": "40",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.039,
+    "time": "2024-12-06T09:38:51.851-05:00",
+    "contest_time": "0:23:51.851",
+    "judgement_id": "22",
+    "ordinal": 1,
+    "id": "41",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.055,
+    "time": "2024-12-06T09:38:52.066-05:00",
+    "contest_time": "0:23:52.066",
+    "judgement_id": "22",
+    "ordinal": 2,
+    "id": "42",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.046,
+    "time": "2024-12-06T09:39:20.942-05:00",
+    "contest_time": "0:24:20.942",
+    "judgement_id": "23",
+    "ordinal": 1,
+    "id": "43",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.062,
+    "time": "2024-12-06T09:39:21.185-05:00",
+    "contest_time": "0:24:21.184",
+    "judgement_id": "23",
+    "ordinal": 2,
+    "id": "44",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T09:40:22.901-05:00",
+    "contest_time": "0:25:22.901",
+    "judgement_id": "24",
+    "ordinal": 1,
+    "id": "45",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.057,
+    "time": "2024-12-06T09:40:23.135-05:00",
+    "contest_time": "0:25:23.135",
+    "judgement_id": "24",
+    "ordinal": 2,
+    "id": "46",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:40:26.267-05:00",
+    "contest_time": "0:25:26.267",
+    "judgement_id": "25",
+    "ordinal": 1,
+    "id": "47",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.044,
+    "time": "2024-12-06T09:41:52.504-05:00",
+    "contest_time": "0:26:52.504",
+    "judgement_id": "27",
+    "ordinal": 1,
+    "id": "50",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.076,
+    "time": "2024-12-06T09:41:52.776-05:00",
+    "contest_time": "0:26:52.776",
+    "judgement_id": "27",
+    "ordinal": 2,
+    "id": "51",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:46:11.388-05:00",
+    "contest_time": "0:31:11.388",
+    "judgement_id": "28",
+    "ordinal": 1,
+    "id": "52",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:46:11.540-05:00",
+    "contest_time": "0:31:11.540",
+    "judgement_id": "28",
+    "ordinal": 2,
+    "id": "53",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:46:14.113-05:00",
+    "contest_time": "0:31:14.113",
+    "judgement_id": "29",
+    "ordinal": 1,
+    "id": "54",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:46:14.223-05:00",
+    "contest_time": "0:31:14.223",
+    "judgement_id": "29",
+    "ordinal": 2,
+    "id": "55",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:03.468-05:00",
+    "contest_time": "0:32:03.467",
+    "judgement_id": "30",
+    "ordinal": 1,
+    "id": "56",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:03.640-05:00",
+    "contest_time": "0:32:03.640",
+    "judgement_id": "30",
+    "ordinal": 2,
+    "id": "57",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:29.655-05:00",
+    "contest_time": "0:32:29.655",
+    "judgement_id": "31",
+    "ordinal": 1,
+    "id": "58",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:29.785-05:00",
+    "contest_time": "0:32:29.785",
+    "judgement_id": "31",
+    "ordinal": 2,
+    "id": "59",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:43.862-05:00",
+    "contest_time": "0:32:43.862",
+    "judgement_id": "32",
+    "ordinal": 1,
+    "id": "60",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:43.989-05:00",
+    "contest_time": "0:32:43.989",
+    "judgement_id": "32",
+    "ordinal": 2,
+    "id": "61",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:52.853-05:00",
+    "contest_time": "0:32:52.853",
+    "judgement_id": "33",
+    "ordinal": 1,
+    "id": "64",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:47:52.967-05:00",
+    "contest_time": "0:32:52.967",
+    "judgement_id": "33",
+    "ordinal": 2,
+    "id": "65",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.068,
+    "time": "2024-12-06T09:48:13.938-05:00",
+    "contest_time": "0:33:13.938",
+    "judgement_id": "34",
+    "ordinal": 1,
+    "id": "66",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.039,
+    "time": "2024-12-06T09:49:15.944-05:00",
+    "contest_time": "0:34:15.944",
+    "judgement_id": "35",
+    "ordinal": 1,
+    "id": "70",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:49:44.142-05:00",
+    "contest_time": "0:34:44.142",
+    "judgement_id": "36",
+    "ordinal": 1,
+    "id": "87",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:50:26.721-05:00",
+    "contest_time": "0:35:26.721",
+    "judgement_id": "37",
+    "ordinal": 1,
+    "id": "88",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:50:26.848-05:00",
+    "contest_time": "0:35:26.848",
+    "judgement_id": "37",
+    "ordinal": 2,
+    "id": "89",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T09:50:27.587-05:00",
+    "contest_time": "0:35:27.587",
+    "judgement_id": "38",
+    "ordinal": 1,
+    "id": "90",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.07,
+    "time": "2024-12-06T09:50:27.816-05:00",
+    "contest_time": "0:35:27.816",
+    "judgement_id": "38",
+    "ordinal": 2,
+    "id": "91",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.048,
+    "time": "2024-12-06T09:50:39.945-05:00",
+    "contest_time": "0:35:39.945",
+    "judgement_id": "39",
+    "ordinal": 1,
+    "id": "92",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.05,
+    "time": "2024-12-06T09:50:40.103-05:00",
+    "contest_time": "0:35:40.103",
+    "judgement_id": "39",
+    "ordinal": 2,
+    "id": "93",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T09:50:53.845-05:00",
+    "contest_time": "0:35:53.845",
+    "judgement_id": "40",
+    "ordinal": 1,
+    "id": "94",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:50:56.543-05:00",
+    "contest_time": "0:35:56.543",
+    "judgement_id": "41",
+    "ordinal": 1,
+    "id": "95",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:51:31.764-05:00",
+    "contest_time": "0:36:31.764",
+    "judgement_id": "42",
+    "ordinal": 1,
+    "id": "96",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:51:31.881-05:00",
+    "contest_time": "0:36:31.881",
+    "judgement_id": "42",
+    "ordinal": 2,
+    "id": "97",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:52:45.336-05:00",
+    "contest_time": "0:37:45.336",
+    "judgement_id": "43",
+    "ordinal": 1,
+    "id": "98",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:52:45.528-05:00",
+    "contest_time": "0:37:45.528",
+    "judgement_id": "43",
+    "ordinal": 2,
+    "id": "99",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:52:45.754-05:00",
+    "contest_time": "0:37:45.754",
+    "judgement_id": "43",
+    "ordinal": 3,
+    "id": "100",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.002,
+    "time": "2024-12-06T09:52:45.994-05:00",
+    "contest_time": "0:37:45.994",
+    "judgement_id": "43",
+    "ordinal": 4,
+    "id": "101",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.013,
+    "time": "2024-12-06T09:52:46.255-05:00",
+    "contest_time": "0:37:46.255",
+    "judgement_id": "43",
+    "ordinal": 5,
+    "id": "102",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.055,
+    "time": "2024-12-06T09:52:47.189-05:00",
+    "contest_time": "0:37:47.189",
+    "judgement_id": "43",
+    "ordinal": 6,
+    "id": "103",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.057,
+    "time": "2024-12-06T09:52:47.059-05:00",
+    "contest_time": "0:37:47.059",
+    "judgement_id": "44",
+    "ordinal": 1,
+    "id": "104",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.076,
+    "time": "2024-12-06T09:52:47.334-05:00",
+    "contest_time": "0:37:47.334",
+    "judgement_id": "44",
+    "ordinal": 2,
+    "id": "105",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:52:50.223-05:00",
+    "contest_time": "0:37:50.223",
+    "judgement_id": "45",
+    "ordinal": 1,
+    "id": "106",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:52:50.399-05:00",
+    "contest_time": "0:37:50.399",
+    "judgement_id": "45",
+    "ordinal": 2,
+    "id": "107",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:53:37.049-05:00",
+    "contest_time": "0:38:37.049",
+    "judgement_id": "46",
+    "ordinal": 1,
+    "id": "108",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:08:40.357-05:00",
+    "contest_time": "0:53:40.357",
+    "judgement_id": "46",
+    "ordinal": 2,
+    "id": "109",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:08:40.543-05:00",
+    "contest_time": "0:53:40.543",
+    "judgement_id": "46",
+    "ordinal": 3,
+    "id": "110",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:08:40.709-05:00",
+    "contest_time": "0:53:40.709",
+    "judgement_id": "46",
+    "ordinal": 4,
+    "id": "111",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:53:41.397-05:00",
+    "contest_time": "0:38:41.397",
+    "judgement_id": "47",
+    "ordinal": 1,
+    "id": "112",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:53:41.577-05:00",
+    "contest_time": "0:38:41.577",
+    "judgement_id": "47",
+    "ordinal": 2,
+    "id": "113",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T09:54:50.097-05:00",
+    "contest_time": "0:39:50.097",
+    "judgement_id": "48",
+    "ordinal": 1,
+    "id": "114",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.039,
+    "time": "2024-12-06T09:54:50.335-05:00",
+    "contest_time": "0:39:50.335",
+    "judgement_id": "48",
+    "ordinal": 2,
+    "id": "115",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T09:54:50.578-05:00",
+    "contest_time": "0:39:50.578",
+    "judgement_id": "48",
+    "ordinal": 3,
+    "id": "116",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.043,
+    "time": "2024-12-06T09:54:50.831-05:00",
+    "contest_time": "0:39:50.831",
+    "judgement_id": "48",
+    "ordinal": 4,
+    "id": "117",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.052,
+    "time": "2024-12-06T09:54:51.097-05:00",
+    "contest_time": "0:39:51.097",
+    "judgement_id": "48",
+    "ordinal": 5,
+    "id": "118",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 1.861,
+    "time": "2024-12-06T09:54:53.464-05:00",
+    "contest_time": "0:39:53.464",
+    "judgement_id": "48",
+    "ordinal": 6,
+    "id": "119",
+    "judgement_type_id": "TLE"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T09:54:54.276-05:00",
+    "contest_time": "0:39:54.276",
+    "judgement_id": "49",
+    "ordinal": 1,
+    "id": "121",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:54:59.541-05:00",
+    "contest_time": "0:39:59.541",
+    "judgement_id": "50",
+    "ordinal": 1,
+    "id": "122",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:54:59.680-05:00",
+    "contest_time": "0:39:59.680",
+    "judgement_id": "50",
+    "ordinal": 2,
+    "id": "123",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.073,
+    "time": "2024-12-06T09:55:06.787-05:00",
+    "contest_time": "0:40:06.786",
+    "judgement_id": "51",
+    "ordinal": 1,
+    "id": "124",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:55:30.214-05:00",
+    "contest_time": "0:40:30.214",
+    "judgement_id": "52",
+    "ordinal": 1,
+    "id": "128",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:55:30.337-05:00",
+    "contest_time": "0:40:30.337",
+    "judgement_id": "52",
+    "ordinal": 2,
+    "id": "129",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.042,
+    "time": "2024-12-06T09:55:49.385-05:00",
+    "contest_time": "0:40:49.385",
+    "judgement_id": "53",
+    "ordinal": 1,
+    "id": "130",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.064,
+    "time": "2024-12-06T09:55:49.625-05:00",
+    "contest_time": "0:40:49.625",
+    "judgement_id": "53",
+    "ordinal": 2,
+    "id": "131",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T09:55:51.774-05:00",
+    "contest_time": "0:40:51.773",
+    "judgement_id": "54",
+    "ordinal": 1,
+    "id": "132",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.134,
+    "time": "2024-12-06T09:56:47.534-05:00",
+    "contest_time": "0:41:47.534",
+    "judgement_id": "55",
+    "ordinal": 1,
+    "id": "136",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T09:59:01.777-05:00",
+    "contest_time": "0:44:01.777",
+    "judgement_id": "56",
+    "ordinal": 1,
+    "id": "138",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T10:00:08.931-05:00",
+    "contest_time": "0:45:08.931",
+    "judgement_id": "57",
+    "ordinal": 1,
+    "id": "142",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.057,
+    "time": "2024-12-06T10:00:09.163-05:00",
+    "contest_time": "0:45:09.163",
+    "judgement_id": "57",
+    "ordinal": 2,
+    "id": "143",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:41.096-05:00",
+    "contest_time": "0:45:41.096",
+    "judgement_id": "58",
+    "ordinal": 1,
+    "id": "144",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:41.256-05:00",
+    "contest_time": "0:45:41.256",
+    "judgement_id": "58",
+    "ordinal": 2,
+    "id": "145",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:44.442-05:00",
+    "contest_time": "0:45:44.442",
+    "judgement_id": "59",
+    "ordinal": 1,
+    "id": "146",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:44.610-05:00",
+    "contest_time": "0:45:44.610",
+    "judgement_id": "59",
+    "ordinal": 2,
+    "id": "147",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.007,
+    "time": "2024-12-06T10:00:46.770-05:00",
+    "contest_time": "0:45:46.770",
+    "judgement_id": "59",
+    "ordinal": 6,
+    "id": "151",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.02,
+    "time": "2024-12-06T10:00:47.085-05:00",
+    "contest_time": "0:45:47.085",
+    "judgement_id": "59",
+    "ordinal": 7,
+    "id": "152",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:54.328-05:00",
+    "contest_time": "0:45:54.328",
+    "judgement_id": "60",
+    "ordinal": 1,
+    "id": "153",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:54.548-05:00",
+    "contest_time": "0:45:54.548",
+    "judgement_id": "60",
+    "ordinal": 2,
+    "id": "154",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:54.808-05:00",
+    "contest_time": "0:45:54.808",
+    "judgement_id": "60",
+    "ordinal": 3,
+    "id": "155",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:55.028-05:00",
+    "contest_time": "0:45:55.028",
+    "judgement_id": "60",
+    "ordinal": 4,
+    "id": "156",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:00:55.273-05:00",
+    "contest_time": "0:45:55.273",
+    "judgement_id": "60",
+    "ordinal": 5,
+    "id": "157",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.03,
+    "time": "2024-12-06T10:00:55.087-05:00",
+    "contest_time": "0:45:55.087",
+    "judgement_id": "60",
+    "ordinal": 6,
+    "id": "158",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.092,
+    "time": "2024-12-06T10:00:55.489-05:00",
+    "contest_time": "0:45:55.489",
+    "judgement_id": "60",
+    "ordinal": 7,
+    "id": "159",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.048,
+    "time": "2024-12-06T10:00:53.744-05:00",
+    "contest_time": "0:45:53.743",
+    "judgement_id": "61",
+    "ordinal": 1,
+    "id": "160",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:25.804-05:00",
+    "contest_time": "0:46:25.804",
+    "judgement_id": "63",
+    "ordinal": 1,
+    "id": "165",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:34.954-05:00",
+    "contest_time": "0:46:34.954",
+    "judgement_id": "64",
+    "ordinal": 1,
+    "id": "166",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:35.121-05:00",
+    "contest_time": "0:46:35.121",
+    "judgement_id": "64",
+    "ordinal": 2,
+    "id": "167",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:35.282-05:00",
+    "contest_time": "0:46:35.282",
+    "judgement_id": "64",
+    "ordinal": 3,
+    "id": "168",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:35.458-05:00",
+    "contest_time": "0:46:35.458",
+    "judgement_id": "64",
+    "ordinal": 4,
+    "id": "169",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:35.639-05:00",
+    "contest_time": "0:46:35.639",
+    "judgement_id": "64",
+    "ordinal": 5,
+    "id": "170",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.007,
+    "time": "2024-12-06T10:01:37.347-05:00",
+    "contest_time": "0:46:37.347",
+    "judgement_id": "64",
+    "ordinal": 6,
+    "id": "171",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.022,
+    "time": "2024-12-06T10:01:37.611-05:00",
+    "contest_time": "0:46:37.611",
+    "judgement_id": "64",
+    "ordinal": 7,
+    "id": "172",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:47.376-05:00",
+    "contest_time": "0:46:47.376",
+    "judgement_id": "65",
+    "ordinal": 1,
+    "id": "173",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:01:47.541-05:00",
+    "contest_time": "0:46:47.540",
+    "judgement_id": "65",
+    "ordinal": 2,
+    "id": "174",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T10:04:55.983-05:00",
+    "contest_time": "0:49:55.983",
+    "judgement_id": "66",
+    "ordinal": 1,
+    "id": "175",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.046,
+    "time": "2024-12-06T10:04:56.195-05:00",
+    "contest_time": "0:49:56.195",
+    "judgement_id": "66",
+    "ordinal": 2,
+    "id": "176",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:04:56.409-05:00",
+    "contest_time": "0:49:56.409",
+    "judgement_id": "66",
+    "ordinal": 3,
+    "id": "177",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.045,
+    "time": "2024-12-06T10:04:56.620-05:00",
+    "contest_time": "0:49:56.620",
+    "judgement_id": "66",
+    "ordinal": 4,
+    "id": "178",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.05,
+    "time": "2024-12-06T10:04:56.833-05:00",
+    "contest_time": "0:49:56.833",
+    "judgement_id": "66",
+    "ordinal": 5,
+    "id": "179",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.641,
+    "time": "2024-12-06T10:04:57.482-05:00",
+    "contest_time": "0:49:57.482",
+    "judgement_id": "66",
+    "ordinal": 6,
+    "id": "180",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 1.854,
+    "time": "2024-12-06T10:04:57.409-05:00",
+    "contest_time": "0:49:57.409",
+    "judgement_id": "66",
+    "ordinal": 7,
+    "id": "181",
+    "judgement_type_id": "TLE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:05:38.045-05:00",
+    "contest_time": "0:50:38.045",
+    "judgement_id": "73",
+    "ordinal": 1,
+    "id": "206",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:05:38.263-05:00",
+    "contest_time": "0:50:38.263",
+    "judgement_id": "73",
+    "ordinal": 2,
+    "id": "207",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:05:38.522-05:00",
+    "contest_time": "0:50:38.522",
+    "judgement_id": "73",
+    "ordinal": 3,
+    "id": "208",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.002,
+    "time": "2024-12-06T10:05:38.701-05:00",
+    "contest_time": "0:50:38.701",
+    "judgement_id": "73",
+    "ordinal": 4,
+    "id": "209",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.012,
+    "time": "2024-12-06T10:05:39.184-05:00",
+    "contest_time": "0:50:39.184",
+    "judgement_id": "73",
+    "ordinal": 6,
+    "id": "211",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.004,
+    "time": "2024-12-06T10:05:39.344-05:00",
+    "contest_time": "0:50:39.344",
+    "judgement_id": "73",
+    "ordinal": 7,
+    "id": "212",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.006,
+    "time": "2024-12-06T10:05:40.017-05:00",
+    "contest_time": "0:50:40.017",
+    "judgement_id": "73",
+    "ordinal": 11,
+    "id": "216",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.014,
+    "time": "2024-12-06T10:05:40.620-05:00",
+    "contest_time": "0:50:40.620",
+    "judgement_id": "73",
+    "ordinal": 16,
+    "id": "221",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.073,
+    "time": "2024-12-06T10:06:11.086-05:00",
+    "contest_time": "0:51:11.086",
+    "judgement_id": "74",
+    "ordinal": 1,
+    "id": "223",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:06:12.137-05:00",
+    "contest_time": "0:51:12.137",
+    "judgement_id": "75",
+    "ordinal": 1,
+    "id": "240",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.054,
+    "time": "2024-12-06T10:06:12.369-05:00",
+    "contest_time": "0:51:12.369",
+    "judgement_id": "75",
+    "ordinal": 2,
+    "id": "241",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.039,
+    "time": "2024-12-06T10:06:14.689-05:00",
+    "contest_time": "0:51:14.689",
+    "judgement_id": "76",
+    "ordinal": 1,
+    "id": "242",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.049,
+    "time": "2024-12-06T10:06:14.903-05:00",
+    "contest_time": "0:51:14.903",
+    "judgement_id": "76",
+    "ordinal": 2,
+    "id": "243",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.077,
+    "time": "2024-12-06T10:06:33.841-05:00",
+    "contest_time": "0:51:33.841",
+    "judgement_id": "77",
+    "ordinal": 1,
+    "id": "244",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:06:50.977-05:00",
+    "contest_time": "0:51:50.977",
+    "judgement_id": "78",
+    "ordinal": 1,
+    "id": "245",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:06:51.199-05:00",
+    "contest_time": "0:51:51.199",
+    "judgement_id": "78",
+    "ordinal": 2,
+    "id": "246",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:06:51.432-05:00",
+    "contest_time": "0:51:51.431",
+    "judgement_id": "78",
+    "ordinal": 3,
+    "id": "247",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:06:51.587-05:00",
+    "contest_time": "0:51:51.587",
+    "judgement_id": "78",
+    "ordinal": 4,
+    "id": "248",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.057,
+    "time": "2024-12-06T10:06:51.383-05:00",
+    "contest_time": "0:51:51.383",
+    "judgement_id": "78",
+    "ordinal": 6,
+    "id": "250",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.046,
+    "time": "2024-12-06T10:08:00.498-05:00",
+    "contest_time": "0:53:00.498",
+    "judgement_id": "85",
+    "ordinal": 1,
+    "id": "275",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.049,
+    "time": "2024-12-06T10:08:00.709-05:00",
+    "contest_time": "0:53:00.709",
+    "judgement_id": "85",
+    "ordinal": 2,
+    "id": "276",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T10:08:11.324-05:00",
+    "contest_time": "0:53:11.324",
+    "judgement_id": "86",
+    "ordinal": 1,
+    "id": "277",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T10:08:22.511-05:00",
+    "contest_time": "0:53:22.510",
+    "judgement_id": "87",
+    "ordinal": 1,
+    "id": "278",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.079,
+    "time": "2024-12-06T10:08:41.506-05:00",
+    "contest_time": "0:53:41.506",
+    "judgement_id": "88",
+    "ordinal": 1,
+    "id": "281",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:10:04.582-05:00",
+    "contest_time": "0:55:04.582",
+    "judgement_id": "89",
+    "ordinal": 1,
+    "id": "282",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:10:04.754-05:00",
+    "contest_time": "0:55:04.754",
+    "judgement_id": "89",
+    "ordinal": 2,
+    "id": "283",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:10:04.911-05:00",
+    "contest_time": "0:55:04.911",
+    "judgement_id": "89",
+    "ordinal": 3,
+    "id": "284",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:10:05.037-05:00",
+    "contest_time": "0:55:05.037",
+    "judgement_id": "89",
+    "ordinal": 4,
+    "id": "285",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.054,
+    "time": "2024-12-06T10:10:04.786-05:00",
+    "contest_time": "0:55:04.786",
+    "judgement_id": "89",
+    "ordinal": 6,
+    "id": "287",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.068,
+    "time": "2024-12-06T10:11:14.017-05:00",
+    "contest_time": "0:56:14.017",
+    "judgement_id": "90",
+    "ordinal": 1,
+    "id": "288",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:11:55.931-05:00",
+    "contest_time": "0:56:55.931",
+    "judgement_id": "91",
+    "ordinal": 1,
+    "id": "289",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.042,
+    "time": "2024-12-06T10:12:12.508-05:00",
+    "contest_time": "0:57:12.508",
+    "judgement_id": "92",
+    "ordinal": 1,
+    "id": "290",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.048,
+    "time": "2024-12-06T10:12:12.728-05:00",
+    "contest_time": "0:57:12.728",
+    "judgement_id": "92",
+    "ordinal": 2,
+    "id": "291",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:12:56.191-05:00",
+    "contest_time": "0:57:56.191",
+    "judgement_id": "93",
+    "ordinal": 1,
+    "id": "292",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:12:56.377-05:00",
+    "contest_time": "0:57:56.377",
+    "judgement_id": "93",
+    "ordinal": 2,
+    "id": "293",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:02.164-05:00",
+    "contest_time": "0:58:02.164",
+    "judgement_id": "94",
+    "ordinal": 1,
+    "id": "294",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:02.316-05:00",
+    "contest_time": "0:58:02.316",
+    "judgement_id": "94",
+    "ordinal": 2,
+    "id": "295",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:02.471-05:00",
+    "contest_time": "0:58:02.470",
+    "judgement_id": "94",
+    "ordinal": 3,
+    "id": "296",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:02.625-05:00",
+    "contest_time": "0:58:02.625",
+    "judgement_id": "94",
+    "ordinal": 4,
+    "id": "297",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.012,
+    "time": "2024-12-06T10:13:02.847-05:00",
+    "contest_time": "0:58:02.847",
+    "judgement_id": "94",
+    "ordinal": 5,
+    "id": "298",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.053,
+    "time": "2024-12-06T10:13:02.910-05:00",
+    "contest_time": "0:58:02.910",
+    "judgement_id": "94",
+    "ordinal": 6,
+    "id": "299",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:08.364-05:00",
+    "contest_time": "0:58:08.364",
+    "judgement_id": "95",
+    "ordinal": 1,
+    "id": "300",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:17.688-05:00",
+    "contest_time": "0:58:17.687",
+    "judgement_id": "96",
+    "ordinal": 1,
+    "id": "301",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:17.904-05:00",
+    "contest_time": "0:58:17.904",
+    "judgement_id": "96",
+    "ordinal": 2,
+    "id": "302",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:18.109-05:00",
+    "contest_time": "0:58:18.109",
+    "judgement_id": "96",
+    "ordinal": 3,
+    "id": "303",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:13:18.317-05:00",
+    "contest_time": "0:58:18.317",
+    "judgement_id": "96",
+    "ordinal": 4,
+    "id": "304",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.02,
+    "time": "2024-12-06T10:13:18.563-05:00",
+    "contest_time": "0:58:18.563",
+    "judgement_id": "96",
+    "ordinal": 5,
+    "id": "305",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.059,
+    "time": "2024-12-06T10:13:17.775-05:00",
+    "contest_time": "0:58:17.775",
+    "judgement_id": "96",
+    "ordinal": 6,
+    "id": "306",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:16:56.218-05:00",
+    "contest_time": "1:01:56.218",
+    "judgement_id": "97",
+    "ordinal": 1,
+    "id": "307",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:16:56.366-05:00",
+    "contest_time": "1:01:56.366",
+    "judgement_id": "97",
+    "ordinal": 2,
+    "id": "308",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:16:56.530-05:00",
+    "contest_time": "1:01:56.530",
+    "judgement_id": "97",
+    "ordinal": 3,
+    "id": "309",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:16:56.723-05:00",
+    "contest_time": "1:01:56.723",
+    "judgement_id": "97",
+    "ordinal": 4,
+    "id": "310",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.014,
+    "time": "2024-12-06T10:16:56.974-05:00",
+    "contest_time": "1:01:56.974",
+    "judgement_id": "97",
+    "ordinal": 5,
+    "id": "311",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.048,
+    "time": "2024-12-06T10:16:56.330-05:00",
+    "contest_time": "1:01:56.330",
+    "judgement_id": "97",
+    "ordinal": 6,
+    "id": "312",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:17:06.274-05:00",
+    "contest_time": "1:02:06.274",
+    "judgement_id": "98",
+    "ordinal": 1,
+    "id": "313",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:17:14.332-05:00",
+    "contest_time": "1:02:14.332",
+    "judgement_id": "99",
+    "ordinal": 2,
+    "id": "318",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:17:14.487-05:00",
+    "contest_time": "1:02:14.486",
+    "judgement_id": "99",
+    "ordinal": 3,
+    "id": "319",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:17:14.646-05:00",
+    "contest_time": "1:02:14.646",
+    "judgement_id": "99",
+    "ordinal": 4,
+    "id": "320",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:17:14.145-05:00",
+    "contest_time": "1:02:14.145",
+    "judgement_id": "99",
+    "ordinal": 1,
+    "id": "317",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.051,
+    "time": "2024-12-06T10:17:55.474-05:00",
+    "contest_time": "1:02:55.474",
+    "judgement_id": "100",
+    "ordinal": 1,
+    "id": "321",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T10:18:05.562-05:00",
+    "contest_time": "1:03:05.562",
+    "judgement_id": "101",
+    "ordinal": 1,
+    "id": "325",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.044,
+    "time": "2024-12-06T10:18:29.125-05:00",
+    "contest_time": "1:03:29.125",
+    "judgement_id": "102",
+    "ordinal": 1,
+    "id": "329",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.039,
+    "time": "2024-12-06T10:18:40.934-05:00",
+    "contest_time": "1:03:40.934",
+    "judgement_id": "103",
+    "ordinal": 1,
+    "id": "333",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.063,
+    "time": "2024-12-06T10:19:16.566-05:00",
+    "contest_time": "1:04:16.566",
+    "judgement_id": "104",
+    "ordinal": 1,
+    "id": "337",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.063,
+    "time": "2024-12-06T10:19:16.765-05:00",
+    "contest_time": "1:04:16.765",
+    "judgement_id": "104",
+    "ordinal": 2,
+    "id": "338",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.067,
+    "time": "2024-12-06T10:19:22.062-05:00",
+    "contest_time": "1:04:22.062",
+    "judgement_id": "105",
+    "ordinal": 2,
+    "id": "340",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.053,
+    "time": "2024-12-06T10:19:22.276-05:00",
+    "contest_time": "1:04:22.276",
+    "judgement_id": "105",
+    "ordinal": 3,
+    "id": "341",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.056,
+    "time": "2024-12-06T10:19:22.495-05:00",
+    "contest_time": "1:04:22.495",
+    "judgement_id": "105",
+    "ordinal": 4,
+    "id": "342",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.042,
+    "time": "2024-12-06T10:19:21.807-05:00",
+    "contest_time": "1:04:21.807",
+    "judgement_id": "105",
+    "ordinal": 1,
+    "id": "339",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:28.275-05:00",
+    "contest_time": "1:04:28.275",
+    "judgement_id": "106",
+    "ordinal": 1,
+    "id": "343",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:28.464-05:00",
+    "contest_time": "1:04:28.464",
+    "judgement_id": "106",
+    "ordinal": 2,
+    "id": "344",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:28.641-05:00",
+    "contest_time": "1:04:28.641",
+    "judgement_id": "106",
+    "ordinal": 3,
+    "id": "345",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.002,
+    "time": "2024-12-06T10:19:28.823-05:00",
+    "contest_time": "1:04:28.823",
+    "judgement_id": "106",
+    "ordinal": 4,
+    "id": "346",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.003,
+    "time": "2024-12-06T10:19:28.996-05:00",
+    "contest_time": "1:04:28.996",
+    "judgement_id": "106",
+    "ordinal": 5,
+    "id": "347",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.01,
+    "time": "2024-12-06T10:19:28.871-05:00",
+    "contest_time": "1:04:28.871",
+    "judgement_id": "106",
+    "ordinal": 6,
+    "id": "348",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:07.873-05:00",
+    "contest_time": "1:06:07.873",
+    "judgement_id": "107",
+    "ordinal": 2,
+    "id": "350",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:08.145-05:00",
+    "contest_time": "1:06:08.145",
+    "judgement_id": "107",
+    "ordinal": 3,
+    "id": "351",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:08.415-05:00",
+    "contest_time": "1:06:08.415",
+    "judgement_id": "107",
+    "ordinal": 4,
+    "id": "352",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:45.494-05:00",
+    "contest_time": "1:04:45.494",
+    "judgement_id": "107",
+    "ordinal": 1,
+    "id": "349",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:06.734-05:00",
+    "contest_time": "1:06:06.734",
+    "judgement_id": "108",
+    "ordinal": 2,
+    "id": "354",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:06.985-05:00",
+    "contest_time": "1:06:06.985",
+    "judgement_id": "108",
+    "ordinal": 3,
+    "id": "355",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:07.264-05:00",
+    "contest_time": "1:06:07.264",
+    "judgement_id": "108",
+    "ordinal": 4,
+    "id": "356",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:44.640-05:00",
+    "contest_time": "1:04:44.640",
+    "judgement_id": "108",
+    "ordinal": 1,
+    "id": "353",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.095,
+    "time": "2024-12-06T10:21:07.826-05:00",
+    "contest_time": "1:06:07.826",
+    "judgement_id": "109",
+    "ordinal": 2,
+    "id": "358",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.093,
+    "time": "2024-12-06T10:21:08.179-05:00",
+    "contest_time": "1:06:08.179",
+    "judgement_id": "109",
+    "ordinal": 3,
+    "id": "359",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.107,
+    "time": "2024-12-06T10:21:08.550-05:00",
+    "contest_time": "1:06:08.550",
+    "judgement_id": "109",
+    "ordinal": 4,
+    "id": "360",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.097,
+    "time": "2024-12-06T10:19:44.172-05:00",
+    "contest_time": "1:04:44.172",
+    "judgement_id": "109",
+    "ordinal": 1,
+    "id": "357",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:45.846-05:00",
+    "contest_time": "1:04:45.846",
+    "judgement_id": "110",
+    "ordinal": 2,
+    "id": "362",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:46.015-05:00",
+    "contest_time": "1:04:46.015",
+    "judgement_id": "110",
+    "ordinal": 3,
+    "id": "363",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:46.197-05:00",
+    "contest_time": "1:04:46.197",
+    "judgement_id": "110",
+    "ordinal": 4,
+    "id": "364",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:45.664-05:00",
+    "contest_time": "1:04:45.664",
+    "judgement_id": "110",
+    "ordinal": 1,
+    "id": "361",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.095,
+    "time": "2024-12-06T10:21:08.783-05:00",
+    "contest_time": "1:06:08.782",
+    "judgement_id": "111",
+    "ordinal": 2,
+    "id": "366",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.1,
+    "time": "2024-12-06T10:21:09.155-05:00",
+    "contest_time": "1:06:09.155",
+    "judgement_id": "111",
+    "ordinal": 3,
+    "id": "367",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.092,
+    "time": "2024-12-06T10:21:09.490-05:00",
+    "contest_time": "1:06:09.490",
+    "judgement_id": "111",
+    "ordinal": 4,
+    "id": "368",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.089,
+    "time": "2024-12-06T10:19:45.458-05:00",
+    "contest_time": "1:04:45.458",
+    "judgement_id": "111",
+    "ordinal": 1,
+    "id": "365",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:47.722-05:00",
+    "contest_time": "1:04:47.722",
+    "judgement_id": "112",
+    "ordinal": 2,
+    "id": "370",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:47.901-05:00",
+    "contest_time": "1:04:47.901",
+    "judgement_id": "112",
+    "ordinal": 3,
+    "id": "371",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:48.089-05:00",
+    "contest_time": "1:04:48.089",
+    "judgement_id": "112",
+    "ordinal": 4,
+    "id": "372",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:47.554-05:00",
+    "contest_time": "1:04:47.554",
+    "judgement_id": "112",
+    "ordinal": 1,
+    "id": "369",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.071,
+    "time": "2024-12-06T10:19:46.634-05:00",
+    "contest_time": "1:04:46.634",
+    "judgement_id": "113",
+    "ordinal": 2,
+    "id": "374",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.063,
+    "time": "2024-12-06T10:19:46.895-05:00",
+    "contest_time": "1:04:46.895",
+    "judgement_id": "113",
+    "ordinal": 3,
+    "id": "375",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.067,
+    "time": "2024-12-06T10:19:47.153-05:00",
+    "contest_time": "1:04:47.153",
+    "judgement_id": "113",
+    "ordinal": 4,
+    "id": "376",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.045,
+    "time": "2024-12-06T10:19:46.383-05:00",
+    "contest_time": "1:04:46.383",
+    "judgement_id": "113",
+    "ordinal": 1,
+    "id": "373",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:11.112-05:00",
+    "contest_time": "1:06:11.112",
+    "judgement_id": "114",
+    "ordinal": 2,
+    "id": "378",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:11.343-05:00",
+    "contest_time": "1:06:11.343",
+    "judgement_id": "114",
+    "ordinal": 3,
+    "id": "379",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:21:11.582-05:00",
+    "contest_time": "1:06:11.582",
+    "judgement_id": "114",
+    "ordinal": 4,
+    "id": "380",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:48.358-05:00",
+    "contest_time": "1:04:48.358",
+    "judgement_id": "114",
+    "ordinal": 1,
+    "id": "377",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:47.715-05:00",
+    "contest_time": "1:04:47.714",
+    "judgement_id": "115",
+    "ordinal": 2,
+    "id": "382",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:47.901-05:00",
+    "contest_time": "1:04:47.901",
+    "judgement_id": "115",
+    "ordinal": 3,
+    "id": "383",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:48.086-05:00",
+    "contest_time": "1:04:48.086",
+    "judgement_id": "115",
+    "ordinal": 4,
+    "id": "384",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:19:47.536-05:00",
+    "contest_time": "1:04:47.536",
+    "judgement_id": "115",
+    "ordinal": 1,
+    "id": "381",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.059,
+    "time": "2024-12-06T10:21:09.398-05:00",
+    "contest_time": "1:06:09.398",
+    "judgement_id": "116",
+    "ordinal": 2,
+    "id": "386",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.055,
+    "time": "2024-12-06T10:21:09.692-05:00",
+    "contest_time": "1:06:09.692",
+    "judgement_id": "116",
+    "ordinal": 3,
+    "id": "387",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.052,
+    "time": "2024-12-06T10:21:09.999-05:00",
+    "contest_time": "1:06:09.999",
+    "judgement_id": "116",
+    "ordinal": 4,
+    "id": "388",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.046,
+    "time": "2024-12-06T10:19:47.848-05:00",
+    "contest_time": "1:04:47.848",
+    "judgement_id": "116",
+    "ordinal": 1,
+    "id": "385",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.056,
+    "time": "2024-12-06T10:21:07.562-05:00",
+    "contest_time": "1:06:07.562",
+    "judgement_id": "117",
+    "ordinal": 2,
+    "id": "390",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.054,
+    "time": "2024-12-06T10:21:07.859-05:00",
+    "contest_time": "1:06:07.859",
+    "judgement_id": "117",
+    "ordinal": 3,
+    "id": "391",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.059,
+    "time": "2024-12-06T10:21:08.181-05:00",
+    "contest_time": "1:06:08.181",
+    "judgement_id": "117",
+    "ordinal": 4,
+    "id": "392",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T10:19:48.685-05:00",
+    "contest_time": "1:04:48.685",
+    "judgement_id": "117",
+    "ordinal": 1,
+    "id": "389",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.07,
+    "time": "2024-12-06T10:21:06.962-05:00",
+    "contest_time": "1:06:06.962",
+    "judgement_id": "118",
+    "ordinal": 2,
+    "id": "394",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.058,
+    "time": "2024-12-06T10:21:07.291-05:00",
+    "contest_time": "1:06:07.291",
+    "judgement_id": "118",
+    "ordinal": 3,
+    "id": "395",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.066,
+    "time": "2024-12-06T10:21:07.621-05:00",
+    "contest_time": "1:06:07.621",
+    "judgement_id": "118",
+    "ordinal": 4,
+    "id": "396",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.042,
+    "time": "2024-12-06T10:19:48.755-05:00",
+    "contest_time": "1:04:48.755",
+    "judgement_id": "118",
+    "ordinal": 1,
+    "id": "393",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.054,
+    "time": "2024-12-06T10:21:07.198-05:00",
+    "contest_time": "1:06:07.198",
+    "judgement_id": "119",
+    "ordinal": 2,
+    "id": "398",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.062,
+    "time": "2024-12-06T10:21:07.537-05:00",
+    "contest_time": "1:06:07.537",
+    "judgement_id": "119",
+    "ordinal": 3,
+    "id": "399",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.054,
+    "time": "2024-12-06T10:21:07.835-05:00",
+    "contest_time": "1:06:07.835",
+    "judgement_id": "119",
+    "ordinal": 4,
+    "id": "400",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.044,
+    "time": "2024-12-06T10:19:48.932-05:00",
+    "contest_time": "1:04:48.932",
+    "judgement_id": "119",
+    "ordinal": 1,
+    "id": "397",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.062,
+    "time": "2024-12-06T10:19:49.427-05:00",
+    "contest_time": "1:04:49.427",
+    "judgement_id": "120",
+    "ordinal": 2,
+    "id": "402",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.051,
+    "time": "2024-12-06T10:19:49.653-05:00",
+    "contest_time": "1:04:49.653",
+    "judgement_id": "120",
+    "ordinal": 3,
+    "id": "403",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.051,
+    "time": "2024-12-06T10:19:49.871-05:00",
+    "contest_time": "1:04:49.871",
+    "judgement_id": "120",
+    "ordinal": 4,
+    "id": "404",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.044,
+    "time": "2024-12-06T10:19:49.205-05:00",
+    "contest_time": "1:04:49.205",
+    "judgement_id": "120",
+    "ordinal": 1,
+    "id": "401",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T10:20:35.263-05:00",
+    "contest_time": "1:05:35.263",
+    "judgement_id": "121",
+    "ordinal": 1,
+    "id": "405",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:20:47.553-05:00",
+    "contest_time": "1:05:47.552",
+    "judgement_id": "122",
+    "ordinal": 1,
+    "id": "407",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:20:47.722-05:00",
+    "contest_time": "1:05:47.722",
+    "judgement_id": "122",
+    "ordinal": 2,
+    "id": "408",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T10:22:00.010-05:00",
+    "contest_time": "1:07:00.010",
+    "judgement_id": "123",
+    "ordinal": 1,
+    "id": "409",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.049,
+    "time": "2024-12-06T10:22:00.224-05:00",
+    "contest_time": "1:07:00.224",
+    "judgement_id": "123",
+    "ordinal": 2,
+    "id": "410",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:22:09.865-05:00",
+    "contest_time": "1:07:09.865",
+    "judgement_id": "124",
+    "ordinal": 1,
+    "id": "411",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:02.725-05:00",
+    "contest_time": "1:08:02.725",
+    "judgement_id": "125",
+    "ordinal": 2,
+    "id": "416",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:02.895-05:00",
+    "contest_time": "1:08:02.895",
+    "judgement_id": "125",
+    "ordinal": 3,
+    "id": "417",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:03.085-05:00",
+    "contest_time": "1:08:03.085",
+    "judgement_id": "125",
+    "ordinal": 4,
+    "id": "418",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:02.545-05:00",
+    "contest_time": "1:08:02.545",
+    "judgement_id": "125",
+    "ordinal": 1,
+    "id": "415",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:12.300-05:00",
+    "contest_time": "1:08:12.300",
+    "judgement_id": "126",
+    "ordinal": 2,
+    "id": "420",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:12.482-05:00",
+    "contest_time": "1:08:12.482",
+    "judgement_id": "126",
+    "ordinal": 3,
+    "id": "421",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:12.652-05:00",
+    "contest_time": "1:08:12.652",
+    "judgement_id": "126",
+    "ordinal": 4,
+    "id": "422",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:23:12.122-05:00",
+    "contest_time": "1:08:12.122",
+    "judgement_id": "126",
+    "ordinal": 1,
+    "id": "419",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.044,
+    "time": "2024-12-06T10:23:18.266-05:00",
+    "contest_time": "1:08:18.266",
+    "judgement_id": "127",
+    "ordinal": 1,
+    "id": "423",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.059,
+    "time": "2024-12-06T10:23:18.516-05:00",
+    "contest_time": "1:08:18.516",
+    "judgement_id": "127",
+    "ordinal": 2,
+    "id": "424",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.054,
+    "time": "2024-12-06T10:25:02.049-05:00",
+    "contest_time": "1:10:02.049",
+    "judgement_id": "128",
+    "ordinal": 2,
+    "id": "426",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.059,
+    "time": "2024-12-06T10:25:02.249-05:00",
+    "contest_time": "1:10:02.249",
+    "judgement_id": "128",
+    "ordinal": 3,
+    "id": "427",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.062,
+    "time": "2024-12-06T10:25:02.462-05:00",
+    "contest_time": "1:10:02.462",
+    "judgement_id": "128",
+    "ordinal": 4,
+    "id": "428",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.044,
+    "time": "2024-12-06T10:25:01.853-05:00",
+    "contest_time": "1:10:01.853",
+    "judgement_id": "128",
+    "ordinal": 1,
+    "id": "425",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:25:30.588-05:00",
+    "contest_time": "1:10:30.588",
+    "judgement_id": "129",
+    "ordinal": 2,
+    "id": "430",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:25:30.785-05:00",
+    "contest_time": "1:10:30.785",
+    "judgement_id": "129",
+    "ordinal": 3,
+    "id": "431",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:25:30.981-05:00",
+    "contest_time": "1:10:30.980",
+    "judgement_id": "129",
+    "ordinal": 4,
+    "id": "432",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.037,
+    "time": "2024-12-06T10:25:30.378-05:00",
+    "contest_time": "1:10:30.378",
+    "judgement_id": "129",
+    "ordinal": 1,
+    "id": "429",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.045,
+    "time": "2024-12-06T10:26:05.401-05:00",
+    "contest_time": "1:11:05.401",
+    "judgement_id": "130",
+    "ordinal": 1,
+    "id": "433",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.065,
+    "time": "2024-12-06T10:26:27.531-05:00",
+    "contest_time": "1:11:27.531",
+    "judgement_id": "131",
+    "ordinal": 2,
+    "id": "438",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.061,
+    "time": "2024-12-06T10:26:27.756-05:00",
+    "contest_time": "1:11:27.756",
+    "judgement_id": "131",
+    "ordinal": 3,
+    "id": "439",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.056,
+    "time": "2024-12-06T10:26:27.972-05:00",
+    "contest_time": "1:11:27.972",
+    "judgement_id": "131",
+    "ordinal": 4,
+    "id": "440",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T10:26:27.292-05:00",
+    "contest_time": "1:11:27.292",
+    "judgement_id": "131",
+    "ordinal": 1,
+    "id": "437",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.043,
+    "time": "2024-12-06T10:26:31.972-05:00",
+    "contest_time": "1:11:31.972",
+    "judgement_id": "132",
+    "ordinal": 1,
+    "id": "441",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.07,
+    "time": "2024-12-06T10:26:57.709-05:00",
+    "contest_time": "1:11:57.709",
+    "judgement_id": "133",
+    "ordinal": 2,
+    "id": "446",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.067,
+    "time": "2024-12-06T10:26:57.962-05:00",
+    "contest_time": "1:11:57.962",
+    "judgement_id": "133",
+    "ordinal": 3,
+    "id": "447",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.062,
+    "time": "2024-12-06T10:26:58.215-05:00",
+    "contest_time": "1:11:58.215",
+    "judgement_id": "133",
+    "ordinal": 4,
+    "id": "448",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T10:26:57.426-05:00",
+    "contest_time": "1:11:57.426",
+    "judgement_id": "133",
+    "ordinal": 1,
+    "id": "445",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.079,
+    "time": "2024-12-06T10:27:36.634-05:00",
+    "contest_time": "1:12:36.634",
+    "judgement_id": "134",
+    "ordinal": 2,
+    "id": "450",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.066,
+    "time": "2024-12-06T10:27:36.926-05:00",
+    "contest_time": "1:12:36.926",
+    "judgement_id": "134",
+    "ordinal": 3,
+    "id": "451",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.075,
+    "time": "2024-12-06T10:27:37.190-05:00",
+    "contest_time": "1:12:37.190",
+    "judgement_id": "134",
+    "ordinal": 4,
+    "id": "452",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T10:27:36.356-05:00",
+    "contest_time": "1:12:36.356",
+    "judgement_id": "134",
+    "ordinal": 1,
+    "id": "449",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:29:00.790-05:00",
+    "contest_time": "1:14:00.790",
+    "judgement_id": "135",
+    "ordinal": 1,
+    "id": "453",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.053,
+    "time": "2024-12-06T10:29:57.276-05:00",
+    "contest_time": "1:14:57.276",
+    "judgement_id": "136",
+    "ordinal": 2,
+    "id": "456",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.061,
+    "time": "2024-12-06T10:29:57.519-05:00",
+    "contest_time": "1:14:57.519",
+    "judgement_id": "136",
+    "ordinal": 3,
+    "id": "457",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.076,
+    "time": "2024-12-06T10:29:57.758-05:00",
+    "contest_time": "1:14:57.758",
+    "judgement_id": "136",
+    "ordinal": 4,
+    "id": "458",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.045,
+    "time": "2024-12-06T10:29:57.058-05:00",
+    "contest_time": "1:14:57.058",
+    "judgement_id": "136",
+    "ordinal": 1,
+    "id": "455",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.051,
+    "time": "2024-12-06T10:30:45.303-05:00",
+    "contest_time": "1:15:45.303",
+    "judgement_id": "137",
+    "ordinal": 1,
+    "id": "459",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.05,
+    "time": "2024-12-06T10:30:45.507-05:00",
+    "contest_time": "1:15:45.507",
+    "judgement_id": "137",
+    "ordinal": 2,
+    "id": "460",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T10:31:12.566-05:00",
+    "contest_time": "1:16:12.566",
+    "judgement_id": "138",
+    "ordinal": 1,
+    "id": "461",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.045,
+    "time": "2024-12-06T10:31:12.766-05:00",
+    "contest_time": "1:16:12.766",
+    "judgement_id": "138",
+    "ordinal": 2,
+    "id": "462",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:31:13.021-05:00",
+    "contest_time": "1:16:13.021",
+    "judgement_id": "138",
+    "ordinal": 3,
+    "id": "463",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.043,
+    "time": "2024-12-06T10:31:13.263-05:00",
+    "contest_time": "1:16:13.263",
+    "judgement_id": "138",
+    "ordinal": 4,
+    "id": "464",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.047,
+    "time": "2024-12-06T10:31:13.526-05:00",
+    "contest_time": "1:16:13.526",
+    "judgement_id": "138",
+    "ordinal": 5,
+    "id": "465",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 2.01,
+    "time": "2024-12-06T10:31:14.700-05:00",
+    "contest_time": "1:16:14.700",
+    "judgement_id": "138",
+    "ordinal": 6,
+    "id": "466",
+    "judgement_type_id": "TLE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:28.531-05:00",
+    "contest_time": "1:17:28.531",
+    "judgement_id": "139",
+    "ordinal": 2,
+    "id": "469",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:25.735-05:00",
+    "contest_time": "1:17:25.735",
+    "judgement_id": "139",
+    "ordinal": 3,
+    "id": "470",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:25.893-05:00",
+    "contest_time": "1:17:25.893",
+    "judgement_id": "139",
+    "ordinal": 4,
+    "id": "471",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:28.368-05:00",
+    "contest_time": "1:17:28.368",
+    "judgement_id": "139",
+    "ordinal": 1,
+    "id": "468",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.071,
+    "time": "2024-12-06T10:32:40.841-05:00",
+    "contest_time": "1:17:40.841",
+    "judgement_id": "140",
+    "ordinal": 1,
+    "id": "472",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:58.813-05:00",
+    "contest_time": "1:17:58.813",
+    "judgement_id": "141",
+    "ordinal": 1,
+    "id": "476",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:58.996-05:00",
+    "contest_time": "1:17:58.996",
+    "judgement_id": "141",
+    "ordinal": 2,
+    "id": "477",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:59.183-05:00",
+    "contest_time": "1:17:59.183",
+    "judgement_id": "141",
+    "ordinal": 3,
+    "id": "478",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:59.352-05:00",
+    "contest_time": "1:17:59.352",
+    "judgement_id": "141",
+    "ordinal": 4,
+    "id": "479",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:32:59.533-05:00",
+    "contest_time": "1:17:59.533",
+    "judgement_id": "141",
+    "ordinal": 5,
+    "id": "480",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.049,
+    "time": "2024-12-06T10:32:58.858-05:00",
+    "contest_time": "1:17:58.858",
+    "judgement_id": "141",
+    "ordinal": 6,
+    "id": "481",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.143,
+    "time": "2024-12-06T10:32:59.254-05:00",
+    "contest_time": "1:17:59.254",
+    "judgement_id": "141",
+    "ordinal": 7,
+    "id": "482",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:00.493-05:00",
+    "contest_time": "1:19:00.493",
+    "judgement_id": "142",
+    "ordinal": 1,
+    "id": "483",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:00.619-05:00",
+    "contest_time": "1:19:00.618",
+    "judgement_id": "142",
+    "ordinal": 2,
+    "id": "484",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.038,
+    "time": "2024-12-06T10:34:05.068-05:00",
+    "contest_time": "1:19:05.068",
+    "judgement_id": "143",
+    "ordinal": 1,
+    "id": "485",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:16.488-05:00",
+    "contest_time": "1:19:16.488",
+    "judgement_id": "144",
+    "ordinal": 1,
+    "id": "489",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:16.649-05:00",
+    "contest_time": "1:19:16.648",
+    "judgement_id": "144",
+    "ordinal": 2,
+    "id": "490",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:16.848-05:00",
+    "contest_time": "1:19:16.848",
+    "judgement_id": "144",
+    "ordinal": 3,
+    "id": "491",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:16.990-05:00",
+    "contest_time": "1:19:16.990",
+    "judgement_id": "144",
+    "ordinal": 4,
+    "id": "492",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:34:17.137-05:00",
+    "contest_time": "1:19:17.137",
+    "judgement_id": "144",
+    "ordinal": 5,
+    "id": "493",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.157,
+    "time": "2024-12-06T10:34:17.531-05:00",
+    "contest_time": "1:19:17.531",
+    "judgement_id": "144",
+    "ordinal": 6,
+    "id": "494",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 1.097,
+    "time": "2024-12-06T10:34:18.821-05:00",
+    "contest_time": "1:19:18.821",
+    "judgement_id": "144",
+    "ordinal": 7,
+    "id": "495",
+    "judgement_type_id": "TLE"
+  },
+  {
+    "run_time": 0.046,
+    "time": "2024-12-06T10:34:22.884-05:00",
+    "contest_time": "1:19:22.884",
+    "judgement_id": "145",
+    "ordinal": 1,
+    "id": "496",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.042,
+    "time": "2024-12-06T10:34:28.949-05:00",
+    "contest_time": "1:19:28.948",
+    "judgement_id": "146",
+    "ordinal": 1,
+    "id": "502",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.049,
+    "time": "2024-12-06T10:34:29.153-05:00",
+    "contest_time": "1:19:29.153",
+    "judgement_id": "146",
+    "ordinal": 2,
+    "id": "503",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.05,
+    "time": "2024-12-06T10:34:38.811-05:00",
+    "contest_time": "1:19:38.811",
+    "judgement_id": "147",
+    "ordinal": 1,
+    "id": "504",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:36:01.512-05:00",
+    "contest_time": "1:21:01.512",
+    "judgement_id": "148",
+    "ordinal": 1,
+    "id": "505",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:36:01.637-05:00",
+    "contest_time": "1:21:01.637",
+    "judgement_id": "148",
+    "ordinal": 2,
+    "id": "506",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:37:20.203-05:00",
+    "contest_time": "1:22:20.203",
+    "judgement_id": "149",
+    "ordinal": 2,
+    "id": "508",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:37:20.365-05:00",
+    "contest_time": "1:22:20.365",
+    "judgement_id": "149",
+    "ordinal": 3,
+    "id": "509",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:37:20.538-05:00",
+    "contest_time": "1:22:20.538",
+    "judgement_id": "149",
+    "ordinal": 4,
+    "id": "510",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:37:20.045-05:00",
+    "contest_time": "1:22:20.045",
+    "judgement_id": "149",
+    "ordinal": 1,
+    "id": "507",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.075,
+    "time": "2024-12-06T10:38:04.599-05:00",
+    "contest_time": "1:23:04.598",
+    "judgement_id": "150",
+    "ordinal": 1,
+    "id": "511",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:38:13.704-05:00",
+    "contest_time": "1:23:13.703",
+    "judgement_id": "151",
+    "ordinal": 1,
+    "id": "512",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:38:45.411-05:00",
+    "contest_time": "1:23:45.411",
+    "judgement_id": "152",
+    "ordinal": 1,
+    "id": "516",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:38:45.562-05:00",
+    "contest_time": "1:23:45.562",
+    "judgement_id": "152",
+    "ordinal": 2,
+    "id": "517",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.041,
+    "time": "2024-12-06T10:39:46.593-05:00",
+    "contest_time": "1:24:46.593",
+    "judgement_id": "153",
+    "ordinal": 1,
+    "id": "518",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:40:03.742-05:00",
+    "contest_time": "1:25:03.742",
+    "judgement_id": "154",
+    "ordinal": 1,
+    "id": "522",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:40:26.205-05:00",
+    "contest_time": "1:25:26.205",
+    "judgement_id": "155",
+    "ordinal": 1,
+    "id": "524",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.037,
+    "time": "2024-12-06T10:41:03.352-05:00",
+    "contest_time": "1:26:03.352",
+    "judgement_id": "156",
+    "ordinal": 1,
+    "id": "525",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:41:10.726-05:00",
+    "contest_time": "1:26:10.726",
+    "judgement_id": "157",
+    "ordinal": 2,
+    "id": "528",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:41:10.874-05:00",
+    "contest_time": "1:26:10.874",
+    "judgement_id": "157",
+    "ordinal": 3,
+    "id": "529",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:41:11.030-05:00",
+    "contest_time": "1:26:11.030",
+    "judgement_id": "157",
+    "ordinal": 4,
+    "id": "530",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:41:10.577-05:00",
+    "contest_time": "1:26:10.577",
+    "judgement_id": "157",
+    "ordinal": 1,
+    "id": "527",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.04,
+    "time": "2024-12-06T10:41:42.398-05:00",
+    "contest_time": "1:26:42.398",
+    "judgement_id": "158",
+    "ordinal": 1,
+    "id": "531",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.102,
+    "time": "2024-12-06T10:42:12.868-05:00",
+    "contest_time": "1:27:12.868",
+    "judgement_id": "159",
+    "ordinal": 1,
+    "id": "538",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.458,
+    "time": "2024-12-06T10:42:13.682-05:00",
+    "contest_time": "1:27:13.682",
+    "judgement_id": "159",
+    "ordinal": 6,
+    "id": "543",
+    "judgement_type_id": "RTE"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:42:33.824-05:00",
+    "contest_time": "1:27:33.824",
+    "judgement_id": "160",
+    "ordinal": 1,
+    "id": "544",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.066,
+    "time": "2024-12-06T10:42:36.634-05:00",
+    "contest_time": "1:27:36.634",
+    "judgement_id": "161",
+    "ordinal": 2,
+    "id": "549",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.07,
+    "time": "2024-12-06T10:42:36.870-05:00",
+    "contest_time": "1:27:36.870",
+    "judgement_id": "161",
+    "ordinal": 3,
+    "id": "550",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.06,
+    "time": "2024-12-06T10:42:37.088-05:00",
+    "contest_time": "1:27:37.088",
+    "judgement_id": "161",
+    "ordinal": 4,
+    "id": "551",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.049,
+    "time": "2024-12-06T10:42:36.386-05:00",
+    "contest_time": "1:27:36.386",
+    "judgement_id": "161",
+    "ordinal": 1,
+    "id": "548",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:42:53.559-05:00",
+    "contest_time": "1:27:53.559",
+    "judgement_id": "162",
+    "ordinal": 1,
+    "id": "552",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:42:53.683-05:00",
+    "contest_time": "1:27:53.683",
+    "judgement_id": "162",
+    "ordinal": 2,
+    "id": "553",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.055,
+    "time": "2024-12-06T10:43:50.385-05:00",
+    "contest_time": "1:28:50.385",
+    "judgement_id": "163",
+    "ordinal": 1,
+    "id": "554",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.058,
+    "time": "2024-12-06T10:43:50.665-05:00",
+    "contest_time": "1:28:50.665",
+    "judgement_id": "163",
+    "ordinal": 2,
+    "id": "555",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.057,
+    "time": "2024-12-06T10:43:50.414-05:00",
+    "contest_time": "1:28:50.414",
+    "judgement_id": "163",
+    "ordinal": 6,
+    "id": "559",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.051,
+    "time": "2024-12-06T10:43:50.672-05:00",
+    "contest_time": "1:28:50.672",
+    "judgement_id": "163",
+    "ordinal": 7,
+    "id": "560",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.051,
+    "time": "2024-12-06T10:43:50.976-05:00",
+    "contest_time": "1:28:50.976",
+    "judgement_id": "163",
+    "ordinal": 11,
+    "id": "564",
+    "judgement_type_id": "WA"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:45:10.761-05:00",
+    "contest_time": "1:30:10.761",
+    "judgement_id": "164",
+    "ordinal": 2,
+    "id": "574",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:45:10.953-05:00",
+    "contest_time": "1:30:10.953",
+    "judgement_id": "164",
+    "ordinal": 3,
+    "id": "575",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:45:11.156-05:00",
+    "contest_time": "1:30:11.156",
+    "judgement_id": "164",
+    "ordinal": 4,
+    "id": "576",
+    "judgement_type_id": "AC"
+  },
+  {
+    "run_time": 0.001,
+    "time": "2024-12-06T10:45:10.593-05:00",
+    "contest_time": "1:30:10.593",
+    "judgement_id": "164",
+    "ordinal": 1,
+    "id": "573",
+    "judgement_type_id": "AC"
+  }
+]

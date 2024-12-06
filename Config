@@ -6,11 +6,11 @@ password =
 id = 2
 
 [Metadata]
-path = metadata
+path = metadata22
 problems = problems.json
 submissions = submissions.json
-runs = runs.json
 contestants = teams.json
+judgements = judgements.json
 
 [Contest]
 duration: 300

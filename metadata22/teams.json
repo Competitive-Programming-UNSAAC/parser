@@ -1,0 +1,786 @@
+[
+  {
+    "organization_id": null,
+    "hidden": true,
+    "group_ids": [
+      "1"
+    ],
+    "affiliation": null,
+    "nationality": null,
+    "id": "1",
+    "icpc_id": null,
+    "name": "DOMjudge",
+    "display_name": null,
+    "public_description": null
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "3",
+    "icpc_id": null,
+    "name": "404:Team not found",
+    "display_name": "404:Team not found",
+    "public_description": "- Axel Aranibar Rojas\r\n- luis adrian surco cutipa\r\n- Avanzado"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "4",
+    "icpc_id": null,
+    "name": "Amigo mío como críticas mis estados con esta que publicas... Buen estado = En peru nunca te aburres? 🤨",
+    "display_name": "Amigo mío como críticas mis estados con esta que publicas... Buen estado = En peru nunca te aburres? 🤨",
+    "public_description": "- Boris Eloy Sullcarani Diaz\r\n- Flor Deliz Ccasa Ccahuana\r\n- Avanzado"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "5",
+    "icpc_id": null,
+    "name": "Los de la 15",
+    "display_name": "Los de la 15",
+    "public_description": "- Ricardo Ochoa Mamani\r\n- Hans Robert Velazquez Durand\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "6",
+    "icpc_id": null,
+    "name": "ACM1PT",
+    "display_name": "ACM1PT",
+    "public_description": "- LA TORRE FRANCO, Jacobo Neptaly\r\n- HUAYLLA PEREDO, Rubén Dario\r\n- Intermedio"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "7",
+    "icpc_id": null,
+    "name": "Sintax terror",
+    "display_name": "Sintax terror",
+    "public_description": "- Diego Abraham Tunque Mamani\r\n- Sebastian Juvenal Velarde Delgado\r\n- Principiante"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "8",
+    "icpc_id": null,
+    "name": "La panadería del pan",
+    "display_name": "La panadería del pan",
+    "public_description": "- Apaza Mamani, Giancarlo\r\n- Olarte Bautista, Cesar Ciro\r\n- Avanzado"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "9",
+    "icpc_id": null,
+    "name": "Los renacuajos",
+    "display_name": "Los renacuajos",
+    "public_description": "- Milder Muñoz Centeno\r\n- Ivan Nestor Limpi Tinta\r\n- Avanzado"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "10",
+    "icpc_id": null,
+    "name": "CTRL+C^CTRL+V",
+    "display_name": "CTRL+C^CTRL+V",
+    "public_description": "- George Ivanok Muñoz Castillo\r\n- franklin llamocca quispe\r\n- Avanzado"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "11",
+    "icpc_id": null,
+    "name": "2 integrantes y medio",
+    "display_name": "2 integrantes y medio",
+    "public_description": "- Camila Alexandra Fernández Puente de la Vega\r\n- Gabriel Caleb Suca Hilares\r\n- Principiante"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "12",
+    "icpc_id": null,
+    "name": "AbejitasDDev",
+    "display_name": "AbejitasDDev",
+    "public_description": "- Jose Carlos Leon Maldonado\r\n- Adriel Mithuar Guevara Cusi\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "13",
+    "icpc_id": null,
+    "name": "Codiguitos",
+    "display_name": "Codiguitos",
+    "public_description": "- Ian Logan Will Quispe Ventura\r\n- Pumachoque choquenaira Jhon esau\r\n- Avanzado"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "14",
+    "icpc_id": null,
+    "name": "Cout\u003C\u003C\"Interbank no pudo con nosotros\";",
+    "display_name": "Cout\u003C\u003C\"Interbank no pudo con nosotros\";",
+    "public_description": "- Jeyson Joseph Chacón Hancco\r\n- Qoyllur Alondra Huaman Copara\r\n- Principiante"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "15",
+    "icpc_id": null,
+    "name": "Team Hermanitos",
+    "display_name": "Team Hermanitos",
+    "public_description": "- Juan Gabriel Huisa Mamani\r\n- Ludvika Arleth Ccasa Pocohuanca\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "16",
+    "icpc_id": null,
+    "name": "Silent Sparks",
+    "display_name": "Silent Sparks",
+    "public_description": "- Carlos Zuñiga Sara\r\n- Isel Yuliana Ticona Quispe\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "17",
+    "icpc_id": null,
+    "name": "Aquí escuchamos, no juzgamos",
+    "display_name": "Aquí escuchamos, no juzgamos",
+    "public_description": "- Andy Jefferson Zevallos Yanqui\r\n- Natan Mamani Flores\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "18",
+    "icpc_id": null,
+    "name": "SUS INFiltrados",
+    "display_name": "SUS INFiltrados",
+    "public_description": "- Kevin Aron Sumire Ccahuana\r\n- Anghelo Alagon Fernandez\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "19",
+    "icpc_id": null,
+    "name": "AJD.exe",
+    "display_name": "AJD.exe",
+    "public_description": "- Luis David Medma Canlla\r\n- Jhon William Huanca Alcca\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "20",
+    "icpc_id": null,
+    "name": "GPT Users",
+    "display_name": "GPT Users",
+    "public_description": "- Marco Abel Gallegos Silva\r\n- Peython Leoncio Cañihua Paz\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "21",
+    "icpc_id": null,
+    "name": "pandas",
+    "display_name": "pandas",
+    "public_description": "- Andy Yoseph Quispe Huanca\r\n- Ronaldo Ticona Jancco\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "22",
+    "icpc_id": null,
+    "name": "Reptilianos",
+    "display_name": "Reptilianos",
+    "public_description": "- Joseph Timothy Calderón Garmendia\r\n- José Luis Huillca Diaz\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "23",
+    "icpc_id": null,
+    "name": "Los Cherokees",
+    "display_name": "Los Cherokees",
+    "public_description": "- Bruce Máximo Mamani Gabriel\r\n- Rossbel Haylla Huillca\r\n- Avanzado"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "24",
+    "icpc_id": null,
+    "name": "Hidden Team",
+    "display_name": "Hidden Team",
+    "public_description": "- Cristhian Ccala Huamani\r\n- Wilman Ccasani Huaman\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "25",
+    "icpc_id": null,
+    "name": "Puntos para que CarrascoGOD me apruebe",
+    "display_name": "Puntos para que CarrascoGOD me apruebe",
+    "public_description": "- Juan Daniel Mascco Rodriguez\r\n- Joseph Smith Merma Flores\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "26",
+    "icpc_id": null,
+    "name": "elUltimoCharDelTeclado",
+    "display_name": "elUltimoCharDelTeclado",
+    "public_description": "- Steffano Ricardo Caballero Zegarra\r\n- Jhon Efrain Quispe Chura\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "27",
+    "icpc_id": null,
+    "name": "La presi y dos mochilas",
+    "display_name": "La presi y dos mochilas",
+    "public_description": "- Dayan Gisel Farfan Gomez\r\n- Jeliel Enriquez Aramburu\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "28",
+    "icpc_id": null,
+    "name": "Team Paquito Yunque",
+    "display_name": "Team Paquito Yunque",
+    "public_description": "- Manuel Eduardo Quispe Condori\r\n- Will Edson Mayta Ttito\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "29",
+    "icpc_id": null,
+    "name": "The +Z's",
+    "display_name": "The +Z's",
+    "public_description": "- Yeferson Supa Cusipaucar\r\n- Adel Alejandro Merma Ccarhuarupay\r\n- Avanzado"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "30",
+    "icpc_id": null,
+    "name": "Pollitos",
+    "display_name": "Pollitos",
+    "public_description": "- Andrés Auccacusi Quispe Ynga\r\n- Jose Omar Miranda Totocayo\r\n- Principiante"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "31",
+    "icpc_id": null,
+    "name": "Las chicas super poderosas",
+    "display_name": "Las chicas super poderosas",
+    "public_description": "- Emmi Daniel a Huaman Tairo\r\n- Maricielo Antonieta Zavala Uchupe\r\n- Principiante"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "32",
+    "icpc_id": null,
+    "name": "codeforce",
+    "display_name": "codeforce",
+    "public_description": "- Isai Mamani Crispin\r\n- Juan Carlos Gibaja Huayhua\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "33",
+    "icpc_id": null,
+    "name": "2 vs 1",
+    "display_name": "2 vs 1",
+    "public_description": "- Aracely Llancaya Tapia\r\n- Ingrid Rosario Noa Aller\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "34",
+    "icpc_id": null,
+    "name": "El Trio",
+    "display_name": "El Trio",
+    "public_description": "- Huacho cruz David ali\r\n- Motta Mendoza Pavel alvaro\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "35",
+    "icpc_id": null,
+    "name": "Los bugs",
+    "display_name": "Los bugs",
+    "public_description": "- Rodriguez Pauccara Cristian Diego\r\n- Eduardo Torres Cano\r\n- Avanzado"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "36",
+    "icpc_id": null,
+    "name": "Şкųэяэs Ꮏяıэтэs",
+    "display_name": "Şкųэяэs Ꮏяıэтэs",
+    "public_description": "- Jaime Antonio Rodriguez Phillco\r\n- Jose Emilio Atauchi Mamani\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "37",
+    "icpc_id": null,
+    "name": "NoName",
+    "display_name": "NoName",
+    "public_description": "- Hernan Washington Ramos Alata\r\n- Brayan Rodrigo Quispe Castillo\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "38",
+    "icpc_id": null,
+    "name": "Los adolescentes",
+    "display_name": "Los adolescentes",
+    "public_description": "- José Luis Quispe Tayña\r\n- Denilson Pari Arriaga\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "39",
+    "icpc_id": null,
+    "name": "sebas y sus dos mochilas",
+    "display_name": "sebas y sus dos mochilas",
+    "public_description": "- Sebastian Victor Torreblanca Paz\r\n- José Luis Peña Caballero\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "40",
+    "icpc_id": null,
+    "name": "Deudores de Justi",
+    "display_name": "Deudores de Justi",
+    "public_description": "- Rayneld Fidel Castro Pari\r\n- Yamir Wagner Florez Vega\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "41",
+    "icpc_id": null,
+    "name": "Dinamita",
+    "display_name": "Dinamita",
+    "public_description": "- Angela Lorena Cornejo Castro\r\n- José Francisco Quentasi Juachin\r\n- Intermedio"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "42",
+    "icpc_id": null,
+    "name": "EZEQUIEL",
+    "display_name": "EZEQUIEL",
+    "public_description": "- Diego Fernando Monzón Carayhua\r\n- José Snayder Mita Puma\r\n- Principiante"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "43",
+    "icpc_id": null,
+    "name": "Cacahuates Team",
+    "display_name": "Cacahuates Team",
+    "public_description": "- Ronald Einar Gutiérrez Alfaro\r\n- Gustavo Pantoja Olave\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "44",
+    "icpc_id": null,
+    "name": "(WA) witas",
+    "display_name": "(WA) witas",
+    "public_description": "- Fidel Enrique Colque Quispe\r\n- Jhon Andherson Quispe Llavilla\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "45",
+    "icpc_id": null,
+    "name": "Team Injusticia",
+    "display_name": "Team Injusticia",
+    "public_description": "- Daniel Rodrigo Alegria Sallo\r\n- Oscar David Barrientos Huillca\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "46",
+    "icpc_id": null,
+    "name": "LOS BYTEYARDIGANS",
+    "display_name": "LOS BYTEYARDIGANS",
+    "public_description": "- Angel Ismael Álvarez Catunta\r\n- Luis Angel Mogrovejo Ccorimanya\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "47",
+    "icpc_id": null,
+    "name": "Team Aiz",
+    "display_name": "Team Aiz",
+    "public_description": "- Carolay Ccama Enriquez\r\n- Nayeli Constantina Labra Huaita\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "48",
+    "icpc_id": null,
+    "name": "Ayuwokis.py",
+    "display_name": "Ayuwokis.py",
+    "public_description": "- Horus Hugo Sánchez Enciso\r\n- Andric Jeremy Bueno Lescano\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "49",
+    "icpc_id": null,
+    "name": "404",
+    "display_name": "404",
+    "public_description": "- HJOVER ELSON KJUIRO HUAMAN\r\n- Jack\r\n- Intermedio"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "50",
+    "icpc_id": null,
+    "name": "Equipo 46",
+    "display_name": "Equipo 46",
+    "public_description": "- Jair Samin Aparicio Aguilar\r\n- Principiante"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "51",
+    "icpc_id": null,
+    "name": "Queencard 2.0",
+    "display_name": "Queencard 2.0",
+    "public_description": "- Ibeth Janela del Pilar Cusi Diaz\r\n- Intermedio"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "52",
+    "icpc_id": null,
+    "name": "Team AN",
+    "display_name": "Team AN",
+    "public_description": "- Isel Yuliana Ticona  Quispe\r\n- Intermedio"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "53",
+    "icpc_id": null,
+    "name": "Two string",
+    "display_name": "Two string",
+    "public_description": "- Rony Wilson Quinaya Mejia\r\n- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "54",
+    "icpc_id": null,
+    "name": "Singleton",
+    "display_name": "Singleton",
+    "public_description": "- Intermedio"
+  },
+  {
+    "organization_id": "2",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "id": "55",
+    "icpc_id": null,
+    "name": "Un quispe solitario",
+    "display_name": "Un quispe solitario",
+    "public_description": "- Principiante"
+  },
+  {
+    "organization_id": "4",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "id": "56",
+    "icpc_id": null,
+    "name": "Quiero mi punto",
+    "display_name": "Quiero mi punto",
+    "public_description": "- Avanzado"
+  },
+  {
+    "organization_id": "3",
+    "hidden": false,
+    "group_ids": [
+      "3"
+    ],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "id": "57",
+    "icpc_id": null,
+    "name": "necesito café",
+    "display_name": "necesito café",
+    "public_description": "- Intermedio"
+  }
+]

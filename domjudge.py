@@ -16,7 +16,6 @@ password = config["Judge"]["password"]
 metadataDir = config["Metadata"]["path"]
 problemsFile = config["Metadata"]["problems"]
 submissionsFile = config["Metadata"]["submissions"]
-runsFile = config["Metadata"]["runs"]
 contestantsFile = config["Metadata"]["contestants"]
 judgementsFile = config["Metadata"]["judgements"]
 
@@ -157,44 +156,27 @@ def getFinalVeredict(veredicts):
         return hashVeredict[next(iter(veredicts))]
     return hashVeredict["WA"]
 
-
-def getRuns():
-    filespathRuns = os.path.join(metadataDir, runsFile)
-    url = f'http://{judgeHost}/api/v4/contests/{contestId}/runs'
-    runsJson = getJsonMetadata(filespathRuns, url)
-
-    runsById = {}
-
-    for run in runsJson:
-        judgementId = run["judgement_id"]
-        if judgementId not in runsById:
-            runsById[judgementId] = []
-        runsById[judgementId].append(run)
-
-    return runsById
-
 def getJudgements():
     filespathJudgements = os.path.join(metadataDir, judgementsFile)
     url = f'http://{judgeHost}/api/v4/contests/{contestId}/judgements'
     judgementsJson = getJsonMetadata(filespathJudgements, url)
 
-    judgements = {}
+    judgementsById = {}
 
     for judgement in judgementsJson:
         submissionId = judgement["submission_id"]
-        if submissionId not in judgements:
-            judgements[submissionId] = []
-        judgements[submissionId].append(judgement)
+        if submissionId not in judgementsById:
+            judgementsById[submissionId] = []
+        judgementsById[submissionId].append(judgement)
 
-    return judgements
-
+    return judgementsById
 
 def getSubmissions(teamsById, problemsById):
     filepathSubmissions = os.path.join(metadataDir, submissionsFile)
     url = f'http://{judgeHost}/api/v4/contests/{contestId}/submissions'
     submissionsJson = getJsonMetadata(filepathSubmissions, url)
 
-    runsById = getRuns()
+    judgementsById = getJudgements()
     submissions = []
 
     for submission in submissionsJson:
@@ -203,7 +185,7 @@ def getSubmissions(teamsById, problemsById):
         teamId = int(submission["team_id"])
         submissionId = submission["id"]
 
-        if submissionId not in runsById:
+        if submissionId not in judgementsById:
             continue
 
         time = datetime.strptime(contestTime, "%H:%M:%S.%f")
@@ -215,40 +197,7 @@ def getSubmissions(teamsById, problemsById):
 
         problemIndex = problemsById[problemId]
 
-        veredicts = getVeredicts(runsById[submissionId])
-        verdict = getFinalVeredict(veredicts)
-
-        submissions.append(Submission(timeSubmitted, contestantName, problemIndex, verdict))
-
-    return [s.__dict__ for s in submissions]
-
-def getSubmissionsFromJudgements(teamsById, problemsById):
-    filepathSubmissions = os.path.join(metadataDir, submissionsFile)
-    url = f'http://{judgeHost}/api/v4/contests/{contestId}/submissions'
-    submissionsJson = getJsonMetadata(filepathSubmissions, url)
-
-    judgements = getJudgements()
-    submissions = []
-
-    for submission in submissionsJson:
-        contestTime = submission["contest_time"]
-        problemId = submission["problem_id"]
-        teamId = int(submission["team_id"])
-        submissionId = submission["id"]
-
-        if submissionId not in judgements:
-            continue
-
-        time = datetime.strptime(contestTime, "%H:%M:%S.%f")
-        hours = time.hour
-        minutes = time.minute
-        timeSubmitted = hours*60 + minutes
-
-        contestantName = teamsById[teamId]
-
-        problemIndex = problemsById[problemId]
-
-        veredicts = getVeredicts(judgements[submissionId])
+        veredicts = getVeredicts(judgementsById[submissionId])
         verdict = getFinalVeredict(veredicts)
 
         submissions.append(Submission(timeSubmitted, contestantName, problemIndex, verdict))
@@ -259,7 +208,7 @@ def domjudgeScoreboard():
     contestMetadata = getContestMetadata()
     problems, problemsById = getProblems()
     contestants, teamsById = getContestants()
-    submissions = getSubmissionsFromJudgements(teamsById, problemsById)
+    submissions = getSubmissions(teamsById, problemsById)
     scoreboardJson = {
         "contestMetadata" : contestMetadata,
         "problems" : problems,

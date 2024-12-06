@@ -1,0 +1,268 @@
+[
+  {
+    "ordinal": 0,
+    "id": "4",
+    "short_name": "A",
+    "label": "A",
+    "time_limit": 3,
+    "externalid": "A",
+    "name": "Kikiwiwi",
+    "rgb": "#FF0000",
+    "color": "red",
+    "statement": [
+      {
+        "href": "contests/2/problems/4/statement",
+        "mime": "application/pdf",
+        "filename": "A.pdf"
+      }
+    ],
+    "test_data_count": 8
+  },
+  {
+    "ordinal": 1,
+    "id": "5",
+    "short_name": "B",
+    "label": "B",
+    "time_limit": 1,
+    "externalid": "B",
+    "name": "Super Mario Bros",
+    "rgb": "#6600CC",
+    "color": "darkviolet",
+    "statement": [
+      {
+        "href": "contests/2/problems/5/statement",
+        "mime": "application/pdf",
+        "filename": "B.pdf"
+      }
+    ],
+    "test_data_count": 7
+  },
+  {
+    "ordinal": 2,
+    "id": "6",
+    "short_name": "C",
+    "label": "C",
+    "time_limit": 2,
+    "externalid": "C",
+    "name": "Mision Del Reino Champinhon",
+    "rgb": "#737373",
+    "color": "dimgray",
+    "statement": [
+      {
+        "href": "contests/2/problems/6/statement",
+        "mime": "application/pdf",
+        "filename": "C.pdf"
+      }
+    ],
+    "test_data_count": 10
+  },
+  {
+    "ordinal": 3,
+    "id": "7",
+    "short_name": "D",
+    "label": "D",
+    "time_limit": 2,
+    "externalid": "D",
+    "name": "Nostalgia",
+    "rgb": "#009933",
+    "color": "forestgreen",
+    "statement": [
+      {
+        "href": "contests/2/problems/7/statement",
+        "mime": "application/pdf",
+        "filename": "D.pdf"
+      }
+    ],
+    "test_data_count": 10
+  },
+  {
+    "ordinal": 4,
+    "id": "8",
+    "short_name": "E",
+    "label": "E",
+    "time_limit": 2,
+    "externalid": "E",
+    "name": "Ejercito Equilibrado I",
+    "rgb": "#9966FF",
+    "color": "mediumslateblue",
+    "statement": [
+      {
+        "href": "contests/2/problems/8/statement",
+        "mime": "application/pdf",
+        "filename": "E.pdf"
+      }
+    ],
+    "test_data_count": 3
+  },
+  {
+    "ordinal": 5,
+    "id": "9",
+    "short_name": "F",
+    "label": "F",
+    "time_limit": 2,
+    "externalid": "F",
+    "name": "Ejercito Equilibrado II",
+    "rgb": "#0000FF",
+    "color": "blue",
+    "statement": [
+      {
+        "href": "contests/2/problems/9/statement",
+        "mime": "application/pdf",
+        "filename": "F.pdf"
+      }
+    ],
+    "test_data_count": 7
+  },
+  {
+    "ordinal": 6,
+    "id": "10",
+    "short_name": "G",
+    "label": "G",
+    "time_limit": 2,
+    "externalid": "G",
+    "name": "Zork",
+    "rgb": "#000000",
+    "color": "black",
+    "statement": [
+      {
+        "href": "contests/2/problems/10/statement",
+        "mime": "application/pdf",
+        "filename": "G.pdf"
+      }
+    ],
+    "test_data_count": 12
+  },
+  {
+    "ordinal": 7,
+    "id": "11",
+    "short_name": "H",
+    "label": "H",
+    "time_limit": 1,
+    "externalid": "H",
+    "name": "Bomberman I",
+    "rgb": "#003300",
+    "color": "darkgreen",
+    "statement": [
+      {
+        "href": "contests/2/problems/11/statement",
+        "mime": "application/pdf",
+        "filename": "H.pdf"
+      }
+    ],
+    "test_data_count": 1
+  },
+  {
+    "ordinal": 8,
+    "id": "12",
+    "short_name": "I",
+    "label": "I",
+    "time_limit": 2,
+    "externalid": "I",
+    "name": "Bomberman II",
+    "rgb": "#FFFFFF",
+    "color": "white",
+    "statement": [
+      {
+        "href": "contests/2/problems/12/statement",
+        "mime": "application/pdf",
+        "filename": "I.pdf"
+      }
+    ],
+    "test_data_count": 17
+  },
+  {
+    "ordinal": 9,
+    "id": "13",
+    "short_name": "J",
+    "label": "J",
+    "time_limit": 2,
+    "externalid": "J",
+    "name": "La Armadura De Megaman",
+    "rgb": "#00CCFF",
+    "color": "deepskyblue",
+    "statement": [
+      {
+        "href": "contests/2/problems/13/statement",
+        "mime": "application/pdf",
+        "filename": "J.pdf"
+      }
+    ],
+    "test_data_count": 2
+  },
+  {
+    "ordinal": 10,
+    "id": "14",
+    "short_name": "K",
+    "label": "K",
+    "time_limit": 2,
+    "externalid": "K",
+    "name": "El Camino De Megaman",
+    "rgb": "#663300",
+    "color": "saddlebrown",
+    "statement": [
+      {
+        "href": "contests/2/problems/14/statement",
+        "mime": "application/pdf",
+        "filename": "K.pdf"
+      }
+    ],
+    "test_data_count": 19
+  },
+  {
+    "ordinal": 11,
+    "id": "15",
+    "short_name": "L",
+    "label": "L",
+    "time_limit": 1,
+    "externalid": "L",
+    "name": "Pacman",
+    "rgb": "#FFFF00",
+    "color": "yellow",
+    "statement": [
+      {
+        "href": "contests/2/problems/15/statement",
+        "mime": "application/pdf",
+        "filename": "L.pdf"
+      }
+    ],
+    "test_data_count": 4
+  },
+  {
+    "ordinal": 12,
+    "id": "16",
+    "short_name": "M",
+    "label": "M",
+    "time_limit": 1,
+    "externalid": "M",
+    "name": "Magicode",
+    "rgb": "#FF66CC",
+    "color": "hotpink",
+    "statement": [
+      {
+        "href": "contests/2/problems/16/statement",
+        "mime": "application/pdf",
+        "filename": "M.pdf"
+      }
+    ],
+    "test_data_count": 6
+  },
+  {
+    "ordinal": 13,
+    "id": "17",
+    "short_name": "N",
+    "label": "N",
+    "time_limit": 2,
+    "externalid": "N",
+    "name": "Maximo Combo",
+    "rgb": "#FF9900",
+    "color": "orange",
+    "statement": [
+      {
+        "href": "contests/2/problems/17/statement",
+        "mime": "application/pdf",
+        "filename": "N.pdf"
+      }
+    ],
+    "test_data_count": 32
+  }
+]

@@ -11,6 +11,7 @@ problems = problems.json
 submissions = submissions.json
 runs = runs.json
 contestants = teams.json
+judgements = judgements.json
 
 [Contest]
 duration: 300

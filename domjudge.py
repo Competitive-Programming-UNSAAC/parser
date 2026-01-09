@@ -112,7 +112,7 @@ def getProblems():
     problemsById = {}
     for problem in problemsJson:
         index = problem["short_name"]
-        problemId = problem["probid"]
+        problemId = problem["short_name"]
         problems.append(Problem(index))
         problemsById[problemId] = index
 

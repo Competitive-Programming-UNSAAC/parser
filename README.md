@@ -1,8 +1,11 @@
-# Parser
+# DOM Judge Parser for 9.0.0 (latest)  version
 
-# DOM Judge Parser
+A lightweight Flask-based application for parsing DOM Judge metadata and providing API access to the parsed data. This information is retrieved from the DOMJudge APIs:
 
-A lightweight Flask-based application for parsing DOM Judge metadata and providing API access to the parsed data.
+- http://localhost/api/v4/contests/dj-1/problems
+- http://localhost/api/v4/contests/dj-1/teams
+- http://localhost/api/v4/contests/dj-1/judgements
+- http://localhost/api/v4/contests/dj-1/submissions
 
 ## Installation
 
@@ -20,6 +23,43 @@ pip3 install -r requirements.txt
 ## Configuration
 
 Before running the server, ensure that the configuration file points to the correct DOM Judge metadata. Update any necessary paths or settings in the configuration file.
+
+## Config changes
+
+#### Local development
+```
+[Metadata]
+path = metadata22                    # Directory containing metadata files
+problems = problems.json             # Problems JSON filename
+submissions = submissions.json       # Submissions JSON filename
+contestants = teams.json             # Teams JSON filename
+judgements = judgements.json         # Judgements JSON filename
+
+[Contest]
+duration: 300                        # Contest duration in minutes
+start: 06-12-2024 09:00:00          # Contest start time (DD-MM-YYYY HH:MM:SS)
+frozenTimeDuration: 60              # Scoreboard freeze time in minutes
+name: CUSCONTEST                    # Contest name
+mode: ICPC                          # Contest format
+```
+
+#### Contest Online
+```
+[Judge]
+mode = server                       # Set to "server" for online mode
+host = localhost                    # DOM Judge server hostname
+admin = admin                       # Admin username
+password = -rt6byC4dd_A1kQh        # Admin password
+id = dj-1                          # Contest ID
+
+[Contest]
+duration: 300                       # Contest duration in minutes
+start: 06-12-2024 09:00:00         # Contest start time (DD-MM-YYYY HH:MM:SS)
+frozenTimeDuration: 60             # Scoreboard freeze time in minutes
+name: CUSCONTEST                   # Contest name
+mode: ICPC                         # Contest format
+```
+
 
 ## Running the Server
 

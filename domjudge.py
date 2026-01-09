@@ -9,7 +9,7 @@ config.read('Config')
 
 judgeMode = config["Judge"]["mode"]
 judgeHost = config["Judge"]["host"]
-contestId = int(config["Judge"]["id"])
+contestId = config["Judge"]["id"]
 admin = config["Judge"]["admin"]
 password = config["Judge"]["password"]
 
@@ -63,7 +63,7 @@ class Problem:
 
 
 class Contestant:
-    id = 0
+    id = ""
     name = ""
     category = ""
 
@@ -112,7 +112,7 @@ def getProblems():
     problemsById = {}
     for problem in problemsJson:
         index = problem["short_name"]
-        problemId = problem["id"]
+        problemId = problem["short_name"]
         problems.append(Problem(index))
         problemsById[problemId] = index
 
@@ -126,7 +126,7 @@ def getContestants():
     contestants = []
     teamsById = {}
     for team in contestantsJson:
-        id = int(team["id"])
+        id = team["id"]
         name = team["name"]
         category = team["affiliation"] # affiliation was used to put the team category
         hidden = team["hidden"]
@@ -182,7 +182,7 @@ def getSubmissions(teamsById, problemsById):
     for submission in submissionsJson:
         contestTime = submission["contest_time"]
         problemId = submission["problem_id"]
-        teamId = int(submission["team_id"])
+        teamId = submission["team_id"]
         submissionId = submission["id"]
 
         if submissionId not in judgementsById:

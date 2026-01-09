@@ -112,7 +112,7 @@ def getProblems():
     problemsById = {}
     for problem in problemsJson:
         index = problem["short_name"]
-        problemId = problem["probid"]
+        problemId = problem["short_name"]
         problems.append(Problem(index))
         problemsById[problemId] = index
 
@@ -182,7 +182,7 @@ def getSubmissions(teamsById, problemsById):
     for submission in submissionsJson:
         contestTime = submission["contest_time"]
         problemId = submission["problem_id"]
-        teamId = int(submission["team_id"])
+        teamId = submission["team_id"]
         submissionId = submission["id"]
 
         if submissionId not in judgementsById:

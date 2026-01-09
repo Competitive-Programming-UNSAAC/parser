@@ -1,5 +1,3 @@
-# Parser
-
 # DOM Judge Parser for 9.0.0 (latest)  version
 
 A lightweight Flask-based application for parsing DOM Judge metadata and providing API access to the parsed data. This information is retrieved from the DOMJudge APIs:

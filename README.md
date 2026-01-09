@@ -24,7 +24,7 @@ pip3 install -r requirements.txt
 
 Before running the server, ensure that the configuration file points to the correct DOM Judge metadata. Update any necessary paths or settings in the configuration file.
 
-## Config changes
+### Config
 
 #### Local development
 ```
